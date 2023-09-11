@@ -9,7 +9,8 @@ public:
             {
                 vector<int> temp = {i};
                 countToGroups[groupSizes[i]]=temp;
-            } else {
+                continue;
+            } 
                 if(countToGroups[groupSizes[i]].size()<groupSizes[i]) {
                     countToGroups[groupSizes[i]].push_back(i);
                 }
@@ -19,11 +20,10 @@ public:
                     vector<int> temp = {i};
                     countToGroups[groupSizes[i]]=(temp);
                 }
-            }
+            
         }
         
         for(auto c:countToGroups){
-            
                 result.push_back(c.second);
         }
         return result;
