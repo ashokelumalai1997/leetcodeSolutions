@@ -13,8 +13,9 @@ public:
             } 
                 if(countToGroups[groupSizes[i]].size()<groupSizes[i]) {
                     countToGroups[groupSizes[i]].push_back(i);
+                    continue;
                 }
-                else {
+                 {
                     result.push_back(countToGroups[groupSizes[i]]);
                     countToGroups.erase(groupSizes[i]);
                     vector<int> temp = {i};
