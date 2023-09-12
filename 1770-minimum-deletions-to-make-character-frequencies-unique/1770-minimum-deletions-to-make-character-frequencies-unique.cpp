@@ -13,8 +13,8 @@ public:
             if(freqToCharMap.find(kv.second)==freqToCharMap.end())
             {
                 freqToCharMap[kv.second]=kv.first;
-                cout<<"if"<<kv.first<<kv.second;
-            } else {
+                continue;
+            }  {
                 cout<<"else";
                 int temp=kv.second;
                 while(temp>=0)
