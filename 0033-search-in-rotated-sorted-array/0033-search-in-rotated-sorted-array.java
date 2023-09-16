@@ -4,7 +4,7 @@ class Solution {
         int res = -1;
         while(low<=high){
             int mid=(low+high)/2;
-            System.out.println("Low "+low+" high "+high + " mid "+mid);
+            //System.out.println("Low "+low+" high "+high + " mid "+mid);
             if(nums[mid]==target)
             {
                 res=mid;
