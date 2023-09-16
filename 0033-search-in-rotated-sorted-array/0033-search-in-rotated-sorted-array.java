@@ -13,19 +13,19 @@ class Solution {
             if(nums[low]<=nums[mid]){
                 if(target<nums[mid]&&target>=nums[low]){
                     high=mid-1;
-                    continue;
+                    //continue;
                 } else {
                     low=mid+1;
-                    continue;
+                    //continue;
                 }
                 
             } else {
                 if(target>nums[mid]&&target<=nums[high]){
                     low=mid+1;
-                    continue;
+                    //continue;
                 } else {
                     high=mid-1;
-                    continue;
+                    //continue;
                 }
             }
         }
