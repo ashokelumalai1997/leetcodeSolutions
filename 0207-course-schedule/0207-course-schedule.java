@@ -9,6 +9,7 @@ class Solution {
         //If indegree is zero for any child push it to Queue
         //Remove the current node from the queue
         List<Integer>[] adjList = new ArrayList[numCourses];
+        //Arrays.fill(adjList,new ArrayList<>());
         for(int i=0;i<numCourses;i++){
             adjList[i]=new ArrayList();
         }
