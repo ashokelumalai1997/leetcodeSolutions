@@ -22,18 +22,17 @@ class Solution {
         int flag = 1;
         while(!stack.isEmpty()){
             int n =stack.size();
-            List<Integer> currentList = new ArrayList<>();
+            LinkedList<Integer> currentList = new LinkedList<>();
             for(int i=0;i<n;i++){
                 TreeNode currentNode = stack.poll();
                 if(currentNode.left!=null) stack.offer(currentNode.left);
                 if(currentNode.right!=null) stack.offer(currentNode.right);
-                currentList.add(currentNode.val);
+                if(flag==0)
+                    currentList.addFirst(currentNode.val);
+                else
+                    currentList.addLast(currentNode.val);
             }
-            if(flag==0){
-                Collections.reverse(currentList);
-                flag=1;
-            }
-            else flag=0;
+            flag=(flag==1?0:1);
             Output.add(currentList);
         }
         return Output;
