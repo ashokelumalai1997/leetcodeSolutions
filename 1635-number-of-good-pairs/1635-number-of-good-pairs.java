@@ -3,14 +3,13 @@ class Solution {
         //have a hashamap of number to count
         //iterate over hashmap
         //calculate n(n-1)/2 and add it to total
-        HashMap<Integer,Integer> numToCount = new HashMap<>();
         int total=0;
-        for(int num:nums){
-            numToCount.put(num,numToCount.getOrDefault(num,0)+1);
-        }
-        for(Map.Entry<Integer,Integer> entry : numToCount.entrySet()){
-            int current = entry.getValue();
-            total+=current*(current-1)/2;
+        for(int i=0;i<nums.length;i++){
+            for(int j=i+1;j<nums.length;j++){
+                if(nums[j]==nums[i]){
+                    total++;
+                }
+            }
         }
         return total;
     }
