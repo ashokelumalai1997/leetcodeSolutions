@@ -1,30 +1,30 @@
 class Solution {
     public String replaceWords(List<String> dictionary, String sentence) {
+        Set<String> dictionarySet = new HashSet<>(dictionary);
+        String[] words = sentence.split(" ");
         StringBuilder result = new StringBuilder();
-        int i = 0;
-        StringBuilder trackerWord = new StringBuilder();
-        Set<String> dictionaryMap = new HashSet<>();
-        for(String word : dictionary) {
-            dictionaryMap.add(word);
-        }
-        while(i < sentence.length()){
-            if(sentence.charAt(i) == ' ') {
-                result.append(' ');
-                trackerWord = new StringBuilder();
-                i++;
-                continue;
-            }
-            trackerWord.append(sentence.charAt(i));
-            if(dictionaryMap.contains(trackerWord.toString())) {
-                result.append(sentence.charAt(i));
-                while(i < sentence.length() && sentence.charAt(i) != ' ') {
-                    i++;
+
+        for (String word : words) {
+            StringBuilder prefix = new StringBuilder();
+            boolean found = false;
+
+            for (char c : word.toCharArray()) {
+                prefix.append(c);
+                if (dictionarySet.contains(prefix.toString())) {
+                    result.append(prefix.toString()).append(" ");
+                    found = true;
+                    break;
                 }
-            } else {
-                result.append(sentence.charAt(i));
-                i++;
+            }
+
+            if (!found) {
+                result.append(word).append(" ");
             }
         }
+
+        // Remove the last appended space
+        result.deleteCharAt(result.length() - 1);
+
         return result.toString();
     }
 }
