@@ -12,7 +12,7 @@ class Solution {
             
             // Slide the window while condition is met
             while (start < end && (nums[start] == 0 || currentSum > goal)) {
-                if (currentSum > goal) {
+                if (nums[start] == 1) {
                     prefixZeros = 0;
                 } else {
                     prefixZeros++;
