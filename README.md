@@ -5,6 +5,7 @@ Collection of LeetCode questions to ace the coding interview!
 # Hash Table
 |  |
 | ------- |
+| [0325-maximum-size-subarray-sum-equals-k](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0409-longest-palindrome](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0409-longest-palindrome) |
 | [0523-continuous-subarray-sum](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0560-subarray-sum-equals-k) |
@@ -25,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview!
 # Array
 |  |
 | ------- |
+| [0325-maximum-size-subarray-sum-equals-k](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0523-continuous-subarray-sum](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0560-subarray-sum-equals-k) |
 | [0648-replace-words](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0648-replace-words) |
@@ -46,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview!
 # Prefix Sum
 |  |
 | ------- |
+| [0325-maximum-size-subarray-sum-equals-k](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0523-continuous-subarray-sum](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0966-binary-subarrays-with-sum) |
