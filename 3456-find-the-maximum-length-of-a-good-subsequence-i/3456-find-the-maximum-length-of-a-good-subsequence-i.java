@@ -9,9 +9,7 @@ class Solution {
         
 
         int taken = 0;
-        if(runningIndices != k){
-            taken = 1 + getMaximumLengthOfGoodSeq(nums, index+1, runningIndices, k, index, cache);
-        }
+        if(runningIndices <=k)taken =1 + getMaximumLengthOfGoodSeq(nums, index+1, runningIndices, k, index, cache);
         if(lastIndexTaken != -1 && nums[lastIndexTaken] != nums[index]) runningIndices--;
         cache[lastIndexTaken + 1][runningIndices] = Math.max(taken, notTaken);
         
@@ -24,6 +22,6 @@ class Solution {
                 cache[i][j] = -1;
             }
         }
-        return getMaximumLengthOfGoodSeq(nums, 0, 0, k+1, -1, cache);
+        return getMaximumLengthOfGoodSeq(nums, 0, 0, k, -1, cache);
     }
 }
