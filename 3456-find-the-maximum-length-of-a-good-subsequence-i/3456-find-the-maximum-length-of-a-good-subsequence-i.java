@@ -1,17 +1,17 @@
 class Solution {
     public int maximumLength(int[] nums, int k) {
-       int[][] dp = new int[nums.length + 1][k + 1];
-        for (int[] row : dp) {
-            // for (int[] row : rows) {
+       int[][][] dp = new int[nums.length][nums.length + 1][k + 1];
+        for (int[][] rows : dp) {
+            for (int[] row : rows) {
                 Arrays.fill(row, -1);
-            // }
+            }
         }
         return f(0,nums,-1,k ,dp);
     }
     
-    static int f(int idx , int nums[] ,int prev , int k , int dp[][]){
+    static int f(int idx , int nums[] ,int prev , int k , int dp[][][]){
         if(idx>=nums.length) return 0;
-        if(dp[prev+1][k]!=-1)return dp[prev+1][k];
+        if(dp[idx][prev+1][k]!=-1)return dp[idx][prev+1][k];
         int take = 0;
         int nottake =f(idx+1,nums,prev,k,dp);
 
@@ -25,7 +25,7 @@ class Solution {
          
     
         int res = Math.max(take, nottake);
-        dp[prev+1][k] = res;
+        dp[idx][prev+1][k] = res;
         return res;
         
         
