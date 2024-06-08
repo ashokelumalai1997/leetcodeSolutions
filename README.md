@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0409-longest-palindrome](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0409-longest-palindrome) |
 | [0523-continuous-subarray-sum](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0523-continuous-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0560-subarray-sum-equals-k) |
 | [0648-replace-words](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0876-hand-of-straights) |
 # String
@@ -23,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0523-continuous-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0560-subarray-sum-equals-k) |
 | [0648-replace-words](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0876-hand-of-straights) |
 # Sorting
@@ -41,3 +43,4 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0523-continuous-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0560-subarray-sum-equals-k) |
