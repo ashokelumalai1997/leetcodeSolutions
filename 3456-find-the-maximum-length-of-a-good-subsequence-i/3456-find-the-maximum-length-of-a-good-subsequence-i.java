@@ -1,33 +1,39 @@
 class Solution {
+    private int getMaximumLengthOfGoodSeq(int[] nums, int index, int runningIndices, int k, int lastIndexTaken, int[][] cache) {
+	    if(runningIndices == k || index == nums.length) return 0;
+        //String key = String.valueOf(lastIndexTaken) + ":" + String.valueOf(runningIndices);
+        if(cache[lastIndexTaken + 1][runningIndices] != -1) return cache[lastIndexTaken + 1][runningIndices];
+        
+        int notTaken = getMaximumLengthOfGoodSeq(nums, index+1, runningIndices, k, lastIndexTaken, cache);//[1,2,1,1,3], 1, 0, 3, -1
+        
+        if(lastIndexTaken != -1 && nums[lastIndexTaken] != nums[index]) runningIndices++;//runningIndices = 0
+        
+
+        int taken = 0;
+        if(runningIndices != k){
+            taken = 1 + getMaximumLengthOfGoodSeq(nums, index+1, runningIndices, k, index, cache);
+        }
+        if(lastIndexTaken != -1 && nums[lastIndexTaken] != nums[index]) runningIndices--;
+	    
+        // if(runningIndices <= k){
+        //     taken = 1 + getMaximumLengthOfGoodSeq(nums, index+1, runningIndices, k, index, cache);//1 + [1,2,1,1,3], 1, 0, 3, 0
+        // }
+        
+        // cache.put(key, Math.max(taken, notTaken));
+        cache[lastIndexTaken + 1][runningIndices] = Math.max(taken, notTaken);
+        
+        return cache[lastIndexTaken + 1][runningIndices];
+        // return Math.max(taken, notTaken);
+    }
     public int maximumLength(int[] nums, int k) {
-       int[][][] dp = new int[nums.length][nums.length + 1][k + 1];
-        for (int[][] rows : dp) {
-            for (int[] row : rows) {
-                Arrays.fill(row, -1);
+        //if(k == 0) return 1;
+        // Map<String, Integer> cache = new HashMap<>();
+        int[][] cache = new int[nums.length+1][k+2];
+        for(int i = 0; i < cache.length; i ++) {
+            for(int j = 0 ; j < cache[i].length; j ++) {
+                cache[i][j] = -1;
             }
         }
-        return f(0,nums,-1,k ,dp);
-    }
-    
-    static int f(int idx , int nums[] ,int prev , int k , int dp[][][]){
-        if(idx>=nums.length) return 0;
-        if(dp[idx][prev+1][k]!=-1)return dp[idx][prev+1][k];
-        int take = 0;
-        int nottake =f(idx+1,nums,prev,k,dp);
-
-        
-        if(prev==-1 || (nums[idx]==nums[prev])){
-            take = 1 + f(idx+1,nums,idx,k,dp);
-        }
-        else  if(prev==-1 || k>0) {
-            take += 1+ f(idx+1,nums,idx,k-1,dp); 
-        }
-         
-    
-        int res = Math.max(take, nottake);
-        dp[idx][prev+1][k] = res;
-        return res;
-        
-        
+        return getMaximumLengthOfGoodSeq(nums, 0, 0, k+1, -1, cache);//[1,2,1,1,3], 0, 0, 3, -1
     }
 }
