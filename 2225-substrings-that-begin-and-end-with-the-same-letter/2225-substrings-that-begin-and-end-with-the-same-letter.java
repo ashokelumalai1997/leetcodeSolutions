@@ -4,9 +4,7 @@ class Solution {
         long[] freq = new long[26];
         for(char ch : s.toCharArray()) {
             freq[ch-'a']++;
-        }
-        for(int i = 0; i < 26; i ++) {
-            result += freq[i]*(freq[i]+1)/2;
+            result+=freq[ch-'a'];
         }
         return result;
     }
