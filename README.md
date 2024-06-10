@@ -35,10 +35,12 @@ Collection of LeetCode questions to ace the coding interview!
 | [0876-hand-of-straights](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0876-hand-of-straights) |
 | [0966-binary-subarrays-with-sum](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1137-height-checker](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1137-height-checker) |
 # Sorting
 |  |
 | ------- |
 | [0876-hand-of-straights](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0876-hand-of-straights) |
+| [1137-height-checker](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1137-height-checker) |
 # Trie
 |  |
 | ------- |
@@ -65,3 +67,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2225-substrings-that-begin-and-end-with-the-same-letter](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2225-substrings-that-begin-and-end-with-the-same-letter) |
+# Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1137-height-checker) |
