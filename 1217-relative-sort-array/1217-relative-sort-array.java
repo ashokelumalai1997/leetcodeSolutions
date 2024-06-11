@@ -1,8 +1,8 @@
 
 class Solution {
     static class Pair implements Comparable<Pair>{
-        public int index;
-        public int val;
+        private int index;
+        private int val;
 
         public Pair(int index, int val){
             this.index = index;
