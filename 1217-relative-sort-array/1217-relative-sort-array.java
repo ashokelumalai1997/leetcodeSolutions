@@ -1,5 +1,5 @@
 
-class Solution {
+public class Solution {
     static public class Pair implements Comparable<Pair>{
         private int index;
         private int val;
