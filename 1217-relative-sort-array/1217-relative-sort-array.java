@@ -1,6 +1,6 @@
 
 class Solution {
-    class Pair implements Comparable<Pair>{
+    private class Pair implements Comparable<Pair>{
         public int index;
         public int val;
 
