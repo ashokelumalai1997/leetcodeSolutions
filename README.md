@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0409-longest-palindrome](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0409-longest-palindrome) |
 | [0876-hand-of-straights](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0876-hand-of-straights) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Array
 |  |
 | ------- |
@@ -38,12 +39,14 @@ Collection of LeetCode questions to ace the coding interview!
 | [1016-subarray-sums-divisible-by-k](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1137-height-checker](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1217-relative-sort-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Sorting
 |  |
 | ------- |
 | [0876-hand-of-straights](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0876-hand-of-straights) |
 | [1137-height-checker](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1217-relative-sort-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Trie
 |  |
 | ------- |
