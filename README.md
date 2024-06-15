@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0502-ipo](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0502-ipo) |
 | [0876-hand-of-straights](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1719-put-boxes-into-the-warehouse-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1719-put-boxes-into-the-warehouse-ii) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Array
 |  |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1016-subarray-sums-divisible-by-k](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1137-height-checker](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1217-relative-sort-array) |
+| [1719-put-boxes-into-the-warehouse-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1719-put-boxes-into-the-warehouse-ii) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Sorting
 |  |
@@ -52,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0982-minimum-increment-to-make-array-unique](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1217-relative-sort-array) |
+| [1719-put-boxes-into-the-warehouse-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1719-put-boxes-into-the-warehouse-ii) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Trie
 |  |
