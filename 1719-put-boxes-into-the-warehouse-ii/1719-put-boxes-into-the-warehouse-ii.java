@@ -27,7 +27,6 @@ class Solution {
             if(roomSizeToCount.peek() >= boxes[i]) {
                 result++;
                 roomSizeToCount.poll();
-                
             }
         }
         return result;
