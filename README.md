@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0409-longest-palindrome) |
+| [0502-ipo](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0502-ipo) |
 | [0876-hand-of-straights](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -32,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0325-maximum-size-subarray-sum-equals-k) |
+| [0502-ipo](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0560-subarray-sum-equals-k) |
 | [0648-replace-words](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0648-replace-words) |
@@ -45,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview!
 # Sorting
 |  |
 | ------- |
+| [0502-ipo](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0502-ipo) |
 | [0876-hand-of-straights](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1137-height-checker) |
@@ -82,3 +85,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0982-minimum-increment-to-make-array-unique](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1217-relative-sort-array) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [0502-ipo](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0502-ipo) |
