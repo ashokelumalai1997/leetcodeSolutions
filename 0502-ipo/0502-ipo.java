@@ -23,8 +23,8 @@ class Solution {
             while(!sortByCapital.isEmpty() && sortByCapital.peek().capital <= maximumCapitalFetchedSoFar) {
                 sortByProfit.offer(sortByCapital.poll());
             }
-            if(!sortByProfit.isEmpty())
-                maximumCapitalFetchedSoFar += sortByProfit.poll().profit;
+            if(sortByProfit.isEmpty()) break;
+            maximumCapitalFetchedSoFar += sortByProfit.poll().profit;
             numberOfProjectsDoneSoFar++;
         }
         return maximumCapitalFetchedSoFar;
