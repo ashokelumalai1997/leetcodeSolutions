@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0523-continuous-subarray-sum) |
+| [0633-sum-of-square-numbers](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0633-sum-of-square-numbers) |
 | [2225-substrings-that-begin-and-end-with-the-same-letter](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2225-substrings-that-begin-and-end-with-the-same-letter) |
 # Prefix Sum
 |  |
@@ -92,3 +93,11 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0502-ipo](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0502-ipo) |
+# Two Pointers
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0633-sum-of-square-numbers) |
+# Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0633-sum-of-square-numbers) |
