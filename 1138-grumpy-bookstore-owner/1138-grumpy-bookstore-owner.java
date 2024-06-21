@@ -13,15 +13,15 @@ class Solution {
             if(end - start < minutes) {
                 currentPossibleCustomersToSatisfy += grumpy[end] == 1 ? customers[end] : 0;
                 end++;
-                maximumCustomersToSatisfy = Math.max(maximumCustomersToSatisfy, currentPossibleCustomersToSatisfy);
                 continue;
             }
+            maximumCustomersToSatisfy = Math.max(maximumCustomersToSatisfy, currentPossibleCustomersToSatisfy);
             currentPossibleCustomersToSatisfy -= grumpy[start] == 1 ? customers[start] : 0;
             currentPossibleCustomersToSatisfy += grumpy[end] == 1 ? customers[end] : 0;
-            maximumCustomersToSatisfy = Math.max(maximumCustomersToSatisfy, currentPossibleCustomersToSatisfy);
             start++;
             end++;
         }
+        maximumCustomersToSatisfy = Math.max(maximumCustomersToSatisfy, currentPossibleCustomersToSatisfy);
         return maximumCustomersToSatisfy + numberOfSatisfiedCustomers;
 
     }
