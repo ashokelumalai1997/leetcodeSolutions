@@ -1,6 +1,5 @@
 class Solution {
     public int numberOfSubarrays(int[] nums, int k) {
-        int consecutiveEvensAtPreviousWindowEnd = 0;
         int left = 0;
         int right = 0;
         int evensAtStart = 0;
