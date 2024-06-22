@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0966-binary-subarrays-with-sum](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1217-relative-sort-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1217-relative-sort-array) |
+| [1370-count-number-of-nice-subarrays](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [2225-substrings-that-begin-and-end-with-the-same-letter](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2225-substrings-that-begin-and-end-with-the-same-letter) |
 # String
 |  |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1137-height-checker](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1137-height-checker) |
 | [1138-grumpy-bookstore-owner](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1138-grumpy-bookstore-owner) |
 | [1217-relative-sort-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1217-relative-sort-array) |
+| [1370-count-number-of-nice-subarrays](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1675-magnetic-force-between-two-balls) |
 | [1719-put-boxes-into-the-warehouse-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1719-put-boxes-into-the-warehouse-ii) |
@@ -75,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0633-sum-of-square-numbers) |
+| [1370-count-number-of-nice-subarrays](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [2225-substrings-that-begin-and-end-with-the-same-letter](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2225-substrings-that-begin-and-end-with-the-same-letter) |
 # Prefix Sum
 |  |
@@ -90,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1138-grumpy-bookstore-owner](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1138-grumpy-bookstore-owner) |
+| [1370-count-number-of-nice-subarrays](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1370-count-number-of-nice-subarrays) |
 # Counting
 |  |
 | ------- |
