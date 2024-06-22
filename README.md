@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0648-replace-words](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0876-hand-of-straights) |
 | [0966-binary-subarrays-with-sum](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0966-binary-subarrays-with-sum) |
+| [0976-minimum-area-rectangle](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0976-minimum-area-rectangle) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1217-relative-sort-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1217-relative-sort-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1370-count-number-of-nice-subarrays) |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0853-most-profit-assigning-work](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0876-hand-of-straights) |
 | [0966-binary-subarrays-with-sum](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0966-binary-subarrays-with-sum) |
+| [0976-minimum-area-rectangle](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0976-minimum-area-rectangle) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1137-height-checker](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1137-height-checker) |
@@ -64,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0502-ipo](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0502-ipo) |
 | [0853-most-profit-assigning-work](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0876-hand-of-straights) |
+| [0976-minimum-area-rectangle](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0976-minimum-area-rectangle) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1217-relative-sort-array) |
@@ -79,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0633-sum-of-square-numbers) |
+| [0976-minimum-area-rectangle](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0976-minimum-area-rectangle) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [2225-substrings-that-begin-and-end-with-the-same-letter](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2225-substrings-that-begin-and-end-with-the-same-letter) |
 # Prefix Sum
@@ -127,3 +131,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0389-find-the-difference) |
+# Geometry
+|  |
+| ------- |
+| [0976-minimum-area-rectangle](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0976-minimum-area-rectangle) |
