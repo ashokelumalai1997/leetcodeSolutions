@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1217-relative-sort-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1217-relative-sort-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [2225-substrings-that-begin-and-end-with-the-same-letter](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2225-substrings-that-begin-and-end-with-the-same-letter) |
+| [2890-count-substrings-without-repeating-character](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2890-count-substrings-without-repeating-character) |
 # String
 |  |
 | ------- |
@@ -24,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0409-longest-palindrome](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0409-longest-palindrome) |
 | [0648-replace-words](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0648-replace-words) |
 | [2225-substrings-that-begin-and-end-with-the-same-letter](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2225-substrings-that-begin-and-end-with-the-same-letter) |
+| [2890-count-substrings-without-repeating-character](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2890-count-substrings-without-repeating-character) |
 # Greedy
 |  |
 | ------- |
@@ -94,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0966-binary-subarrays-with-sum](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1138-grumpy-bookstore-owner](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1370-count-number-of-nice-subarrays) |
+| [2890-count-substrings-without-repeating-character](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2890-count-substrings-without-repeating-character) |
 # Counting
 |  |
 | ------- |
