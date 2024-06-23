@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1138-grumpy-bookstore-owner](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1138-grumpy-bookstore-owner) |
 | [1217-relative-sort-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1217-relative-sort-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1370-count-number-of-nice-subarrays) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1675-magnetic-force-between-two-balls) |
 | [1719-put-boxes-into-the-warehouse-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1719-put-boxes-into-the-warehouse-ii) |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0966-binary-subarrays-with-sum](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1138-grumpy-bookstore-owner](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1370-count-number-of-nice-subarrays) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2890-count-substrings-without-repeating-character](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2890-count-substrings-without-repeating-character) |
 # Counting
 |  |
@@ -115,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0502-ipo](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0502-ipo) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 # Two Pointers
 |  |
 | ------- |
@@ -135,3 +138,15 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0976-minimum-area-rectangle](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0976-minimum-area-rectangle) |
+# Queue
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Ordered Set
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Monotonic Queue
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
