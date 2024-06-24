@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0976-minimum-area-rectangle](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0976-minimum-area-rectangle) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1137-height-checker](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1137-height-checker) |
 | [1138-grumpy-bookstore-owner](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1138-grumpy-bookstore-owner) |
 | [1217-relative-sort-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1217-relative-sort-array) |
@@ -94,11 +95,13 @@ Collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [2225-substrings-that-begin-and-end-with-the-same-letter](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2225-substrings-that-begin-and-end-with-the-same-letter) |
 # Sliding Window
 |  |
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0966-binary-subarrays-with-sum) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1138-grumpy-bookstore-owner](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -134,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0389-find-the-difference) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 # Geometry
 |  |
 | ------- |
@@ -141,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview!
 # Queue
 |  |
 | ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 # Ordered Set
 |  |
