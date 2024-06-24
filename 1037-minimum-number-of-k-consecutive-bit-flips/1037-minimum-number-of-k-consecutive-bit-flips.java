@@ -18,12 +18,7 @@ class Solution {
                 i++;
                 tempK++;
             }
-            if(i == n && oneQ.size() == 0 && zeroQ.size() == 0) return result;
-            // Queue<Integer> temp = new LinkedList<>(oneQ);
-            // oneQ.clear();
-            // oneQ.addAll(zeroQ);
-            // zeroQ.clear();
-            // zeroQ.addAll(temp);
+            // if(i == n && oneQ.size() == 0 && zeroQ.size() == 0) return result;
             temp = oneQ;
             oneQ= zeroQ;
             zeroQ = temp;
@@ -35,7 +30,8 @@ class Solution {
             while(!oneQ.isEmpty() && !zeroQ.isEmpty() && (oneQ.peek() < zeroQ.peek())) {
                 oneQ.poll();
             }
-            result++;
+            if(oneQ.size() != 0 || zeroQ.size() != 0) result++;;
+            
         }
         if(!oneQ.isEmpty()) return -1;
         if(!zeroQ.isEmpty()) {
