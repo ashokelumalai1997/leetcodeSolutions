@@ -151,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview!
 # Ordered Set
 |  |
 | ------- |
+| [0715-range-module](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0715-range-module) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 # Monotonic Queue
 |  |
@@ -180,3 +181,11 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1285-balance-a-binary-search-tree](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1285-balance-a-binary-search-tree) |
+# Design
+|  |
+| ------- |
+| [0715-range-module](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0715-range-module) |
+# Segment Tree
+|  |
+| ------- |
+| [0715-range-module](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0715-range-module) |
