@@ -189,3 +189,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0715-range-module](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0715-range-module) |
+# Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1916-find-center-of-star-graph) |
