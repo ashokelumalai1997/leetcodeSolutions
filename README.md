@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1285-balance-a-binary-search-tree](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1285-balance-a-binary-search-tree) |
 | [1719-put-boxes-into-the-warehouse-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1719-put-boxes-into-the-warehouse-ii) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2379-maximum-total-importance-of-roads](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2379-maximum-total-importance-of-roads) |
 # Array
 |  |
 | ------- |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1675-magnetic-force-between-two-balls](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1675-magnetic-force-between-two-balls) |
 | [1719-put-boxes-into-the-warehouse-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1719-put-boxes-into-the-warehouse-ii) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2379-maximum-total-importance-of-roads](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2379-maximum-total-importance-of-roads) |
 # Trie
 |  |
 | ------- |
@@ -122,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0502-ipo](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0502-ipo) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2379-maximum-total-importance-of-roads](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2379-maximum-total-importance-of-roads) |
 # Two Pointers
 |  |
 | ------- |
@@ -193,3 +196,4 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1916-find-center-of-star-graph) |
+| [2379-maximum-total-importance-of-roads](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2379-maximum-total-importance-of-roads) |
