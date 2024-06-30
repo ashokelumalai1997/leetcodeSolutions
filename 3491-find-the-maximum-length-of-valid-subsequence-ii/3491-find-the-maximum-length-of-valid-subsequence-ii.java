@@ -17,14 +17,10 @@ class Solution {
                 int mod = (nums[j] + nums[i]) % k;
                 if (dp[j][mod] != null) {
                     dp[i][mod] = Math.max(dp[i][mod] == null ? 1 : dp[i][mod], dp[j][mod] + 1);
-                }
-            }
-            // Update the result with the longest subsequence found ending at index i
-            for (int mod = 0; mod < k; mod++) {
-                if (dp[i][mod] != null) {
                     res = Math.max(res, dp[i][mod]);
                 }
             }
+            
         }
 
         return res;
