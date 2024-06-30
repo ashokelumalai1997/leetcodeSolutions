@@ -53,7 +53,9 @@ class Solution {
            int d1 = getDiameter(adjList1);
            int d2 = getDiameter(adjList2);
            int d3 = (d1 + 1)/2 + (d2 + 1)/2 + 1;
+           if(Math.abs(d1 - d2) <= 1) return d3;
 
            return Math.max(d3, Math.max(d1, d2));
+            // return Math.max(d1, d2);
     }
 }
