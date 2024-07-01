@@ -231,4 +231,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0791-split-bst](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0791-split-bst) |
+## Array
+|  |
+| ------- |
+| [1293-three-consecutive-odds](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1293-three-consecutive-odds) |
 <!---LeetCode Topics End-->
