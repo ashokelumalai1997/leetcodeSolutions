@@ -10,7 +10,7 @@ class UnionFind {
     }
 
     public int find(int member){
-        if(parentInfo[member] != member) return find(parentInfo[member]);
+        if(parentInfo[member] != member) return parentInfo[member] = find(parentInfo[member]);
         return member;
     }
 
