@@ -2,8 +2,8 @@ class Solution {
     private void fixLine(StringBuilder line, List<StringBuilder> words, int maxWidth, boolean lastLine){
         int remainingWidth = maxWidth - line.length();
         if(words.isEmpty()) {
-            while(remainingWidth > 0) {
-                remainingWidth--;
+            while(line.length() < maxWidth) {
+                // maxWidth--;
                 line.append(" ");
             }
             return;
