@@ -266,8 +266,13 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2645-pass-the-pillow](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2645-pass-the-pillow) |
 ## Union Find
 |  |
 | ------- |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
+## Math
+|  |
+| ------- |
+| [2645-pass-the-pillow](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->
