@@ -1,32 +1,32 @@
-import java.util.*;
-
 class Solution {
     public List<String> validStrings(int n) {
-        List<String> result = new ArrayList<>();
-        if (n == 0) return result;
-        if (n == 1) {
-            result.add("0");
-            result.add("1");
-            return result;
-        }
-        
-        List<String> prev = new ArrayList<>();
-        prev.add("0");
-        prev.add("1");
-
-        for (int ind = 2; ind <= n; ind++) {
-            List<String> current = new ArrayList<>();
-            for (String str : prev) {
-                if (str.charAt(str.length() - 1) == '1') {
-                    current.add(str + "0");
-                    current.add(str + "1");
+        List<String> result1 = new ArrayList<>();
+        int ind = 1;
+        result1.add("0");
+        result1.add("1");
+        if(n == 1) return result1;
+        String currentString = null;
+        List<String> re = new ArrayList<>();
+        while(ind < n) {
+            List<String> result = new ArrayList<>();
+            for(int i = 0; i < result1.size();i++) {
+                currentString = result1.get(i);
+                
+                if(currentString.charAt(ind - 1) == '1') {
+                    result.add(currentString + "0");
+                    result.add(currentString + "1");
+                    if(ind == n -1) {
+                        re.add(currentString + "0");
+                        re.add(currentString + "1");
+                    }
                 } else {
-                    current.add(str + "1");
+                    result.add(currentString + "1");
+                    if(ind == n -1) re.add(currentString + "1");
                 }
             }
-            prev = current;
+            result1 = result;
+            ind++;
         }
-
-        return prev;
+        return re;
     }
 }
