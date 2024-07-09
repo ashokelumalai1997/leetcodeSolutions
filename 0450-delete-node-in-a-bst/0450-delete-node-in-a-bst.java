@@ -35,8 +35,10 @@ class Solution {
                 return root;
             }
         }
-        root.left = deleteUtil(root.left, key);
-        root.right = deleteUtil(root.right, key);
+        if(key <= root.val)
+            root.left = deleteUtil(root.left, key);
+        if(key >= root.val)
+            root.right = deleteUtil(root.right, key);
         return root;
     }
     public TreeNode deleteNode(TreeNode root, int key) {
