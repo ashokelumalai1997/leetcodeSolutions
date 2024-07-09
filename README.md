@@ -218,11 +218,13 @@ Collection of LeetCode questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0450-delete-node-in-a-bst) |
 | [0791-split-bst](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0791-split-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0450-delete-node-in-a-bst](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0450-delete-node-in-a-bst) |
 | [0791-split-bst](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0791-split-bst) |
 ## Recursion
 |  |
@@ -231,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Binary Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0450-delete-node-in-a-bst) |
 | [0791-split-bst](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0791-split-bst) |
 ## Array
 |  |
