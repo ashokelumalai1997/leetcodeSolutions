@@ -25,18 +25,16 @@ class Solution {
         ListNode current = head.next;
         if(current == null) return head;
         ListNode next = current.next;
-        while(next != null) {
+        while(current != null) {
             if(numbers.get(current.val) > 1) {
-                prev.next = next;
-                current = next;
-                next = current.next;
+                prev.next = current.next;
+                current = current.next;
             } else {
                 prev = current;
-                current = next;
-                next = current.next;
+                current = current.next;
             }
         }
-        if(numbers.get(current.val) > 1) prev.next = next;
+        // if(numbers.get(current.val) > 1) prev.next = next;
         return head;
     }
 }
