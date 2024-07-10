@@ -19,7 +19,7 @@ class Solution {
                     // Collections.sort(triplet);
                     result.add(triplet);
                     while(i < j && nums[i+1] == nums[i])i++;
-                    // i++;
+                    i++;
                     while(j-1>=i+1 && nums[j] == nums[j-1])j--;
                     j--;
                 } else if(sum < 0) {
