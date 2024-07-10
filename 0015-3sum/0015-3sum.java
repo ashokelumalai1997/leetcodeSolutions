@@ -8,6 +8,7 @@ class Solution {
         int j = n-1;
         
         while(k < n-1) {
+            if(nums[k] > 0) break;
             i = k+1;
             j = n-1;
             while(i < j) {
