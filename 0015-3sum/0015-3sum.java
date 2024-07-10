@@ -28,6 +28,7 @@ class Solution {
                     j--;
                 }
             }
+            // while(k+1 < n-1 && nums[k+1] == nums[k]) k++;
             k++;
         }
         return new ArrayList<>(result);
