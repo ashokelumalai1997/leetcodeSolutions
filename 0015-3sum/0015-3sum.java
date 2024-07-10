@@ -23,8 +23,10 @@ class Solution {
                     while(j-1>=i+1 && nums[j] == nums[j-1])j--;
                     j--;
                 } else if(sum < 0) {
+                    while(i < j && nums[i+1] == nums[i])i++;
                     i++;
                 } else {
+                    while(j-1>=i+1 && nums[j] == nums[j-1])j--;
                     j--;
                 }
             }
