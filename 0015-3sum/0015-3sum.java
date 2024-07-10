@@ -4,10 +4,10 @@ class Solution {
         Set<Integer> dups = new HashSet<>();
         // Map<Integer, Integer> seen = new HashMap<>();
         for (int i = 0; i < nums.length; ++i) if (dups.add(nums[i])) {
-            Map<Integer, Integer> seen = new HashMap<>();
+            Set<Integer> seen = new HashSet<>();
             for (int j = i + 1; j < nums.length; ++j) {
                 int complement = -nums[i] - nums[j];
-                if (seen.containsKey(complement)) {
+                if (seen.contains(complement)) {
                     List<Integer> triplet = Arrays.asList(
                         nums[i],
                         nums[j],
@@ -16,7 +16,7 @@ class Solution {
                     Collections.sort(triplet);
                     res.add(triplet);
                 }
-                seen.put(nums[j], i);
+                seen.add(nums[j]);
             }
         }
         return new ArrayList(res);
