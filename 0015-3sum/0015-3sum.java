@@ -16,9 +16,10 @@ class Solution {
                     triplet.add(nums[i]);
                     triplet.add(nums[j]);
                     triplet.add(nums[k]);
-                    Collections.sort(triplet);
+                    // Collections.sort(triplet);
                     result.add(triplet);
-                    i++;
+                    while(i < n-1 && nums[i+1] == nums[i])i++;
+                    // while(j-1>=0 && nums[j] == nums[j-1])j--;
                     j--;
                 } else if(sum < 0) {
                     i++;
