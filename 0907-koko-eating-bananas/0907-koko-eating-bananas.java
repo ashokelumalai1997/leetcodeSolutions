@@ -17,7 +17,7 @@ class Solution {
         int minimumK = 0;
         while(low <= high) {
             int mid = low + (high-low)/2; //6
-            if(getTotalHoursToEat(piles, mid) > (long)H) {
+            if(getTotalHoursToEat(piles, mid) > H) {
                 low = mid + 1;
             } else {
                 minimumK = mid;
