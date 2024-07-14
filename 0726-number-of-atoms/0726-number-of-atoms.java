@@ -14,7 +14,7 @@ class Solution {
                     i++;
                 }
                 
-                if(i < n) i-=1;
+                 i-=1;
                 
             } else if(key >= 'A' && key <= 'Z') {
                 sb.append(formula.charAt(i));
@@ -23,12 +23,12 @@ class Solution {
                     sb.append(formula.charAt(i));
                     i++;
                 }
-                if(i < n) i-=1;
+                 i-=1;
                 
             } else {
                 sb.append(formula.charAt(i));
                 i++;
-                if(i < n) i-=1;
+                 i-=1;
             }
             result.add(sb.toString());
         }
