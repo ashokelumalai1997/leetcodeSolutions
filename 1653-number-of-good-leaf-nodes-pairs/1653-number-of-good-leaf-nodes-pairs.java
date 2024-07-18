@@ -14,34 +14,53 @@
  * }
  */
 class Solution {
-    int[] getV(TreeNode root, int distance, int[] result) {
-        int[] v = new int[distance + 1];
-        if(root == null) return v;
+    int[] getDistanceV(TreeNode root, int distance, int[] result){
+        int[] distanceV = new int[distance + 1];
+        if(root == null) return distanceV;
         if(root.left == null && root.right == null) {
-            v[0] = 1;
-            return v;
+            distanceV[0] = 1;
+            return distanceV;
         }
-        int[] vL = getV(root.left, distance, result);
-        int[] vR = getV(root.right, distance, result);
+        int[] distanceVL = getDistanceV(root.left, distance, result);
+        int[] distanceVR = getDistanceV(root.right, distance, result);
+        for(int i = distance; i >= 1; i --) {
+            distanceVL[i] = distanceVL[i-1];
+            distanceVR[i] = distanceVR[i-1];
+        }
+        distanceVL[0] = 0;
+        distanceVR[0] = 0;
+        for(int i = 1; i <= distance-1; i++) {
+            result[0] += distanceVL[i]*distanceVR[distance-i];
+        }
+        for(int i = 0; i < distance+1; i++) {
+            distanceV[i] = distanceVL[i] + distanceVR[i];
+        }
+        return distanceV;
+    }
+    private int countPair(TreeNode root, int distance) {
+        int[] distanceV = new int[distance+1];
+        int[] result = new int[1];
+        int[] distanceVL = getDistanceV(root.left, distance, result);
+        int[] distanceVR = getDistanceV(root.right, distance, result);
+        // distanceVL[1] = distanceVL[0];
+        // distanceVR[1] = distanceVR[0];
         for(int i = distance; i >= 1; i--) {
-            vL[i] = vL[i-1];
-            vR[i] = vR[i-1];
-            v[i] = vL[i] + vR[i];
+            distanceVL[i] = distanceVL[i-1];
+            distanceVR[i] = distanceVR[i-1];
         }
-        vL[0] = 0;
-        vR[0] = 0;
-        for(int i = 1; i <= distance; i++) {
-            for(int j = 1; j <= distance; j++) {
-                if(i+j <= distance) {
-                    result[0] += vL[i]*vR[j];
-                }
-            }
+        distanceVL[0] = 0;
+        distanceVR[0] = 0;
+        for(int i = 1; i <= distance-1; i++) {
+            
+            result[0] += distanceVL[i]*distanceVR[distance-i];
         }
-        return v;
+        return result[0];
     }
     public int countPairs(TreeNode root, int distance) {
-        int[] result = new int[1];
-        int[] v = getV(root, distance, result);
-        return result[0];
+        int result = 0;
+        for(int d = 1; d <= distance; d++) {
+            result += countPair(root, d);
+        }
+        return result;
     }
 }
