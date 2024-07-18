@@ -28,8 +28,8 @@ class Solution {
             vR[i] = vR[i-1];
             v[i] = vL[i] + vR[i];
         }
-        // vL[0] = 0;
-        // vR[0] = 0;
+        vL[0] = 0;
+        vR[0] = 0;
         for(int i = 1; i <= distance; i++) {
             for(int j = 1; j <= distance; j++) {
                 if(i+j <= distance) {
