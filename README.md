@@ -266,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1293-three-consecutive-odds](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1293-three-consecutive-odds) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1803-average-waiting-time) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -297,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Linked List
 |  |
@@ -343,4 +345,5 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 <!---LeetCode Topics End-->
