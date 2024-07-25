@@ -271,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1720-crawler-log-folder) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1803-average-waiting-time) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2472-build-a-matrix-with-conditions](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2472-build-a-matrix-with-conditions) |
@@ -282,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0350-intersection-of-two-arrays-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0726-number-of-atoms) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1207-delete-nodes-and-return-forest) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1883-find-distance-in-a-binary-tree](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1883-find-distance-in-a-binary-tree) |
 | [1982-remove-duplicates-from-an-unsorted-linked-list](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1982-remove-duplicates-from-an-unsorted-linked-list) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -299,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0726-number-of-atoms](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0726-number-of-atoms) |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2846-robot-collisions) |
 ## Greedy
