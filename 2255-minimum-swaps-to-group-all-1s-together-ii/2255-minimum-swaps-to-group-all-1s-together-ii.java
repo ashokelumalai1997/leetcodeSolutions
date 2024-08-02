@@ -10,19 +10,9 @@ class Solution {
         int right = 0;
         int totalZeros = 0;
         while(left < n) { //left < n
-            if(left <= n - totalOnes) {
-                while(right < n && right - left < totalOnes) { 
-                    totalZeros += (nums[right] == 0 ? 1 : 0);
+            while(right - left < totalOnes) { 
+                    totalZeros += (nums[right%n] == 0 ? 1 : 0);
                     right++;
-                }
-            } else {
-                right %= n;
-                int diff = n - left + right;
-                while(diff < totalOnes) {
-                    totalZeros += (nums[right] == 0 ? 1 : 0);
-                    right++;
-                    diff = n - left + right + 1;
-                }
             }
             minimumZeros = Math.min(minimumZeros, totalZeros);
             totalZeros -= (nums[left] == 0 ? 1 : 0);
