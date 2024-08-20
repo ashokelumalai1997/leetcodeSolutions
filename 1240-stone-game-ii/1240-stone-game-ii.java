@@ -1,7 +1,7 @@
 class Solution {
     private int[] maxAliceCanGet(int[][][][] dp, int[] piles, int ind, boolean aliceTurn, int M) {
         if(ind >= piles.length) return new int[]{0, 0};
-        if(dp[ind][M][aliceTurn ? 0 : 1][0] != -1) return dp[ind][M][aliceTurn ? 0 : 1];
+        if(dp[ind][M-1][aliceTurn ? 0 : 1][0] != -1) return dp[ind][M-1][aliceTurn ? 0 : 1];
         int indLimit = ind + 2*M;
         int aliceScore = 0;
         int bobScore = 0;
@@ -24,12 +24,12 @@ class Solution {
                 
             }
         }
-        return dp[ind][M][aliceTurn ? 0 : 1] = new int[]{aliceScore, bobScore};
+        return dp[ind][M-1][aliceTurn ? 0 : 1] = new int[]{aliceScore, bobScore};
     }
     public int stoneGameII(int[] piles) {
-        int[][][][] dp = new int[piles.length][piles.length+1][2][2];
+        int[][][][] dp = new int[piles.length][piles.length][2][2];
         for(int i = 0; i < piles.length; i++) {
-            for(int j = 0; j < piles.length +1; j++) {
+            for(int j = 0; j < piles.length; j++) {
                 Arrays.fill(dp[i][j][0], -1);
                 Arrays.fill(dp[i][j][1], -1);
             }
