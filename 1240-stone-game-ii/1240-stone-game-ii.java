@@ -27,9 +27,9 @@ class Solution {
         return dp[ind][M][aliceTurn ? 0 : 1] = new int[]{aliceScore, bobScore};
     }
     public int stoneGameII(int[] piles) {
-        int[][][][] dp = new int[piles.length][piles.length + 1][2][2];
+        int[][][][] dp = new int[piles.length][piles.length+1][2][2];
         for(int i = 0; i < piles.length; i++) {
-            for(int j = 0; j < piles.length + 1; j++) {
+            for(int j = 0; j < piles.length +1; j++) {
                 Arrays.fill(dp[i][j][0], -1);
                 Arrays.fill(dp[i][j][1], -1);
             }
