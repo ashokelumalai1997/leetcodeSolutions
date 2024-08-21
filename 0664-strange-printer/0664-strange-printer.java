@@ -3,6 +3,8 @@ class Solution {
         if(start > end) return 0;
         if(memo[start][end] != -1) return memo[start][end];
         int turns = 1 + getMinTurns(memo, s, start+1, end);
+        // if(start == end) return 1;
+        // int turns = Integer.MAX_VALUE;
         for(int i = start + 1; i <= end; i++) {
             if(s.charAt(i) == s.charAt(start)) {
                 int current = getMinTurns(memo, s, start, i-1) + getMinTurns(memo, s, i+1, end);
