@@ -250,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0060-permutation-sequence) |
 | [0791-split-bst](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0791-split-bst) |
 ## Binary Tree
 |  |
@@ -359,6 +360,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0060-permutation-sequence) |
 | [0650-2-keys-keyboard](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0650-2-keys-keyboard) |
 | [1240-stone-game-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1240-stone-game-ii) |
 | [1642-water-bottles](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1642-water-bottles) |
