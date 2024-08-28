@@ -13,7 +13,7 @@ class Solution {
             int row = (int)current.getKey();
             int col = (int)current.getValue();
             if(grid2[row][col] != 1) {
-                System.out.println(grid2[row][col]);
+                // System.out.println(grid2[row][col]);
                 continue;
             }
             grid2[row][col] = -1;
