@@ -1,26 +1,27 @@
 class Solution {
     private boolean properIsland(int[][] grid1, int[][] grid2, int i, int j) {
 
-        Queue<int[]> q = new LinkedList<>();
-        q.offer(new int[]{i, j});
+        Queue<Pair<Integer, Integer>> q = new LinkedList<>();
+        q.offer(new Pair(i, j));
         boolean isProper = true;
         int r = grid2.length;
         int c = grid2[0].length;
         while(!q.isEmpty()) {
-            int[] current = q.poll();
-            int row = current[0];
-            int col = current[1];
+            Pair current = q.poll();
+            int row = (int)current.getKey();
+            int col = (int)current.getValue();
             if(grid2[row][col] != 1) continue;
-            grid2[row][col] = 0;
+            grid2[row][col] = -1;
+
             if(grid1[row][col] != 1) isProper = false;
-            if(row + 1 < r) 
-                q.offer(new int[]{row+1, col});
-            if(row - 1 >= 0) 
-                q.offer(new int[]{row-1, col});
-            if(col + 1 < c) 
-                q.offer(new int[]{row, col+1});
-            if(col - 1 >= 0) 
-                q.offer(new int[]{row, col-1});
+            if(row + 1 < r && grid2[row + 1][col] == 1) 
+                q.offer(new Pair(row+1, col));
+            if(row - 1 >= 0 && grid2[row - 1][col] == 1) 
+                q.offer(new Pair(row-1, col));
+            if(col + 1 < c && grid2[row][col + 1] == 1) 
+                q.offer(new Pair(row, col+1));
+            if(col - 1 >= 0 && grid2[row][col - 1] == 1) 
+                q.offer(new Pair(row, col-1));
             
 
         }
