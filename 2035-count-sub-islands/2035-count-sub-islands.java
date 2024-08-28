@@ -12,21 +12,33 @@ class Solution {
             Pair current = q.poll();
             int row = (int)current.getKey();
             int col = (int)current.getValue();
-            if(grid2[row][col] != 1) {
-                // System.out.println(grid2[row][col]);
-                continue;
-            }
+            // if(grid2[row][col] != 1) {
+            //     // System.out.println(grid2[row][col]);
+            //     continue;
+            // }
             grid2[row][col] = -1;
 
             if(grid1[row][col] != 1) isProper = false;
-            if(row + 1 < r && (grid2[row + 1][col] == 1)) 
+            if(row + 1 < r && (grid2[row + 1][col] == 1)) {
                 q.offer(new Pair(row+1, col));
-            if(row - 1 >= 0 && (grid2[row - 1][col] == 1)) 
+                grid2[row+1][col] = -1;
+            }
+                
+            if(row - 1 >= 0 && (grid2[row - 1][col] == 1)) {
                 q.offer(new Pair(row-1, col));
-            if(col + 1 < c && (grid2[row][col + 1] == 1)) 
+                grid2[row-1][col] = -1;
+            }
+                
+            if(col + 1 < c && (grid2[row][col + 1] == 1)) {
                 q.offer(new Pair(row, col+1));
-            if(col - 1 >= 0 && (grid2[row][col - 1] == 1)) 
+                grid2[row][col+1] = -1;
+            }
+                
+            if(col - 1 >= 0 && (grid2[row][col - 1] == 1)) {
                 q.offer(new Pair(row, col-1));
+                grid2[row][col-1] = -1;
+            }
+                
             
 
         }
