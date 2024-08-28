@@ -6,25 +6,31 @@ class Solution {
         boolean isProper = true;
         int r = grid2.length;
         int c = grid2[0].length;
+        // int count = 0;
         while(!q.isEmpty()) {
+            // count++;
             Pair current = q.poll();
             int row = (int)current.getKey();
             int col = (int)current.getValue();
-            if(grid2[row][col] != 1) continue;
+            if(grid2[row][col] != 1) {
+                System.out.println(grid2[row][col]);
+                continue;
+            }
             grid2[row][col] = -1;
 
             if(grid1[row][col] != 1) isProper = false;
-            if(row + 1 < r && grid2[row + 1][col] == 1) 
+            if(row + 1 < r)
                 q.offer(new Pair(row+1, col));
-            if(row - 1 >= 0 && grid2[row - 1][col] == 1) 
+            if(row - 1 >= 0)
                 q.offer(new Pair(row-1, col));
-            if(col + 1 < c && grid2[row][col + 1] == 1) 
+            if(col + 1 < c) 
                 q.offer(new Pair(row, col+1));
-            if(col - 1 >= 0 && grid2[row][col - 1] == 1) 
+            if(col - 1 >= 0)
                 q.offer(new Pair(row, col-1));
             
 
         }
+        // System.out.println(count);
         return isProper;
 
     }
