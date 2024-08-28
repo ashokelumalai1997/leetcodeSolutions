@@ -209,12 +209,14 @@ Collection of LeetCode questions to ace the coding interview!
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1883-find-distance-in-a-binary-tree](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1883-find-distance-in-a-binary-tree) |
+| [2035-count-sub-islands](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2035-count-sub-islands) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1883-find-distance-in-a-binary-tree](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1883-find-distance-in-a-binary-tree) |
+| [2035-count-sub-islands](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2035-count-sub-islands) |
 ## Graph
 |  |
 | ------- |
@@ -289,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1720-crawler-log-folder](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1803-average-waiting-time) |
+| [2035-count-sub-islands](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2035-count-sub-islands) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -359,6 +362,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
+| [2035-count-sub-islands](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2035-count-sub-islands) |
 ## Math
 |  |
 | ------- |
@@ -399,6 +403,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2035-count-sub-islands](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2035-count-sub-islands) |
 | [2472-build-a-matrix-with-conditions](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2472-build-a-matrix-with-conditions) |
 ## Divide and Conquer
 |  |
