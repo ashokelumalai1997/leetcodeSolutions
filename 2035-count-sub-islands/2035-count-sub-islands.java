@@ -10,16 +10,15 @@ class Solution {
             int[] current = q.poll();
             int row = current[0];
             int col = current[1];
-            if(grid2[row][col] != 1) continue;
             grid2[row][col] = 0;
             if(grid1[row][col] != 1) isProper = false;
-            if(row + 1 < r) 
+            if(row + 1 < r && grid2[row + 1][col] == 1) 
                 q.offer(new int[]{row+1, col});
-            if(row - 1 >= 0) 
+            if(row - 1 >= 0 && grid2[row - 1][col] == 1) 
                 q.offer(new int[]{row-1, col});
-            if(col + 1 < c) 
+            if(col + 1 < c && grid2[row][col + 1] == 1) 
                 q.offer(new int[]{row, col+1});
-            if(col - 1 >= 0) 
+            if(col - 1 >= 0 && grid2[row][col - 1] == 1) 
                 q.offer(new int[]{row, col-1});
             
 
