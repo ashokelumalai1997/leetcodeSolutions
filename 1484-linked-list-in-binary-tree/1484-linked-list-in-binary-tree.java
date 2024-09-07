@@ -25,17 +25,12 @@
  */
 class Solution {
     private boolean verifySubPath(ListNode head, TreeNode root, ListNode headTracker) {
-        if(headTracker == null) return true;
+        if(head == null) return true;
         if(root == null) return false;
-        if(headTracker.val != root.val) {
-            headTracker = head;
-            if(root.val == headTracker.val) headTracker = headTracker.next;
-        } else {
-            headTracker = headTracker.next;
+        if(root.val == head.val) {
+            return verifySubPath(head.next, root.left, headTracker) || verifySubPath(head.next, root.right, headTracker);
         }
-        boolean left = verifySubPath(head, root.left, headTracker);
-        if(left) return left;
-        return verifySubPath(head, root.right, headTracker);
+        return false;
 
     }
     public boolean isSubPath(ListNode head, TreeNode root) {
