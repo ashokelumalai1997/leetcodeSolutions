@@ -9,11 +9,11 @@
  * }
  */
 class Solution {
-    private int getGCD(int a, int b) {
-        int ma = Math.max(a, b);
-        int mb = Math.min(a, b);
-        if(mb == 0) return ma;
-        return getGCD(ma%mb, mb);
+    private int getGCD(int a, int b)
+    {
+        if (a == 0)
+            return b;
+        return getGCD(b % a, a);
     }
     public ListNode insertGreatestCommonDivisors(ListNode head) {
         ListNode headResult = head;
