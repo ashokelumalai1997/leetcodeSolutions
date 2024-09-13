@@ -1,12 +1,13 @@
 class Solution {
     public int[] xorQueries(int[] arr, int[][] queries) {
         int n = arr.length;
-        int totalXOR = arr[0];
+        int totalXOR = 0;
         int[] prefixXOR = new int[n];
-        prefixXOR[0] = arr[0];
-        for(int i = 1; i < n; i++) {
+        int XORTracker = 0;
+        for(int i = 0; i < n; i++) {
             totalXOR ^= arr[i];
-            prefixXOR[i] = prefixXOR[i-1] ^ arr[i];
+            XORTracker ^= arr[i];
+            prefixXOR[i] = XORTracker;
         }
         int queriesLength = queries.length;
         int[] result = new int[queriesLength];
