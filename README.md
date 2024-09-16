@@ -279,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0068-text-justification](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0068-text-justification) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0539-minimum-time-difference](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0539-minimum-time-difference) |
 | [0907-koko-eating-bananas](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0948-sort-an-array) |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
@@ -341,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0015-3sum](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0015-3sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0539-minimum-time-difference](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0539-minimum-time-difference) |
 | [0726-number-of-atoms](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0948-sort-an-array) |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
@@ -389,6 +391,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0060-permutation-sequence) |
+| [0539-minimum-time-difference](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0539-minimum-time-difference) |
 | [0650-2-keys-keyboard](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0650-2-keys-keyboard) |
 | [1240-stone-game-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1240-stone-game-ii) |
 | [1642-water-bottles](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1642-water-bottles) |
@@ -398,6 +401,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0068-text-justification) |
+| [0539-minimum-time-difference](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0539-minimum-time-difference) |
 | [0664-strange-printer](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
