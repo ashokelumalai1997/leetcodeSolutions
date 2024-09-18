@@ -8,10 +8,7 @@ class Solution {
         Arrays.sort(numStrings, (a,b) -> (b+a).compareTo(a+b));
         String res = new String();
         for(String a : numStrings) res += a;
-        int ind = 0;
-        while(ind < n-1 && res.charAt(ind) == '0') {
-            ind++;
-        }
-        return res.substring(ind, res.length());
+        if(res.startsWith("0")) return "0";
+        return res;
     }
 }
