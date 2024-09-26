@@ -296,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1511-count-number-of-teams](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -362,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0179-largest-number](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0179-largest-number) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -429,6 +431,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0726-number-of-atoms](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0726-number-of-atoms) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1720-crawler-log-folder](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2846-robot-collisions](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2846-robot-collisions) |
@@ -478,6 +481,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1240-stone-game-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1240-stone-game-ii) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1511-count-number-of-teams) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Shortest Path
 |  |
 | ------- |
@@ -496,6 +500,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0042-trapping-rain-water) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Prefix Sum
 |  |
 | ------- |
