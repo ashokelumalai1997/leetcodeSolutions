@@ -2,7 +2,8 @@ class Solution {
     public boolean canArrange(int[] arr, int k) {
         Map<Integer, Integer> hm = new HashMap<>();
         for(int num : arr) {
-            int currentMod = (num%k + k)%k;
+            int currentMod = (num%k + k);
+            if(currentMod >= k) currentMod %= k;
             int neededMod = 0;
             if(currentMod != 0) {
                 neededMod = k - currentMod;
