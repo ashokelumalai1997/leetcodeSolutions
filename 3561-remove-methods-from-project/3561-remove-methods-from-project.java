@@ -20,7 +20,7 @@ public class UnionFind {
         int rootY = find(y);
 
         if (rootX != rootY) {
-            parent[rootY] = x;
+            parent[rootX] = y;
         }
     }
 
