@@ -8,7 +8,6 @@ class Solution {
             }
             st.push(ch);
         }
-        int totalPairs = st.size()/2;
-        return  totalPairs/2 + totalPairs%2;
+        return st.size()/4 + (st.size()/2)%2;
     }
 }
