@@ -16,8 +16,8 @@ class Solution {
         
         int cantTakeIndex = cantTakeChar == 'F' ? 0 : (cantTakeChar == 'W' ? 1 : (cantTakeChar == 'E' ? 2 : 3));
 
-        // int winsInd = wins >= 0 ? wins : aliceChars.length + Math.abs(wins);
-        int winsInd = wins + aliceChars.length;
+        int winsInd = wins >= 0 ? wins : aliceChars.length + Math.abs(wins);
+        // int winsInd = wins + aliceChars.length;
         
         if(dp[index][winsInd][cantTakeIndex] != -1) return dp[index][winsInd][cantTakeIndex];
         
