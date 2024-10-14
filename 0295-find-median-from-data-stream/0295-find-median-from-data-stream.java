@@ -1,11 +1,9 @@
 class MedianFinder {
-
     PriorityQueue<Integer> topSet;
     PriorityQueue<Integer> bottomSet;
-
     public MedianFinder() {
         topSet = new PriorityQueue<>((a,b) -> b-a);
-        bottomSet = new PriorityQueue<>((a,b) -> a-b);
+        bottomSet = new PriorityQueue<>((a,b)->a-b);
     }
     
     public void addNum(int num) {
@@ -14,25 +12,33 @@ class MedianFinder {
             return;
         }
 
-        if(num <= topSet.peek()) topSet.offer(num);
-        else bottomSet.offer(num);
-        balance();
-    }
+        int topFirst = topSet.peek();
+        // int bottomFirst = bottomSet.first();
 
-    private void balance() {
-        if(topSet.size() == bottomSet.size()) return;
-        if(topSet.size() > bottomSet.size()) {
-            bottomSet.offer(topSet.poll());
-            return;
+        if(topFirst > num) {
+            topSet.offer(num);
+        } else {
+            bottomSet.offer(num);
         }
 
-        topSet.offer(bottomSet.poll());
+        int topSize = topSet.size();
+        int bottomSize = bottomSet.size();
+
+        if(topSize > bottomSize) {
+            bottomSet.offer(topSet.poll());
+        } else if(bottomSize > topSize) {
+            topSet.offer(bottomSet.poll());
+        }
     }
     
     public double findMedian() {
+        
+        if(topSet.size() == bottomSet.size()) return (topSet.peek() + bottomSet.peek())/2.0;
+
         if(topSet.size() > bottomSet.size()) return topSet.peek();
-        else if(bottomSet.size() > topSet.size()) return bottomSet.peek();
-        return (topSet.peek() + bottomSet.peek())/2.0;
+
+        return bottomSet.peek();
+
     }
 }
 
@@ -42,3 +48,9 @@ class MedianFinder {
  * obj.addNum(num);
  * double param_2 = obj.findMedian();
  */
+
+
+//  1 2 3 4 5 
+
+//  topHalf    [1,2]
+//  bottomHalf [3,4]
