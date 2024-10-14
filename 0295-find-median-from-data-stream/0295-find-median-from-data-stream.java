@@ -24,9 +24,9 @@ class MedianFinder {
         int topSize = topSet.size();
         int bottomSize = bottomSet.size();
 
-        if(topSize > bottomSize) {
+        if(topSize > bottomSize+1) {
             bottomSet.offer(topSet.poll());
-        } else if(bottomSize > topSize) {
+        } else if(bottomSize > topSize+1) {
             topSet.offer(bottomSet.poll());
         }
     }
