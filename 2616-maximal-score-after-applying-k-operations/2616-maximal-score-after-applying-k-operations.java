@@ -6,7 +6,7 @@ class Solution {
         while(k!=0 && !pq.isEmpty()) {
             int current = pq.poll();
             result += current;
-            pq.offer((int)Math.ceil(current/3.0));
+            pq.offer((int)Math.ceil(current/(double)3));
             k--;
         }
         return result;
