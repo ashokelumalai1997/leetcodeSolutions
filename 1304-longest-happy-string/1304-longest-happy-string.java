@@ -1,62 +1,39 @@
-class Solution {
-
-    public String longestDiverseString(int a, int b, int c) {
-        PriorityQueue<Pair> pq = new PriorityQueue<Pair>((x, y) ->
-            (y.count - x.count)
-        );
-        // Add the counts of a, b and c in priority queue.
-        if (a > 0) {
-            pq.add(new Pair(a, 'a'));
-        }
-
-        if (b > 0) {
-            pq.add(new Pair(b, 'b'));
-        }
-
-        if (c > 0) {
-            pq.add(new Pair(c, 'c'));
-        }
-
-        StringBuilder ans = new StringBuilder();
-        while (!pq.isEmpty()) {
-            Pair p = pq.poll();
-            int count = p.count;
-            char character = p.character;
-            // If three consecutive characters exists, pick the second most
-            // frequent character.
-            if (
-                ans.length() >= 2 &&
-                ans.charAt(ans.length() - 1) == p.character &&
-                ans.charAt(ans.length() - 2) == p.character
-            ) {
-                if (pq.isEmpty()) break;
-
-                Pair temp = pq.poll();
-                ans.append(temp.character);
-                if (temp.count - 1 > 0) {
-                    pq.add(new Pair(temp.count - 1, temp.character));
-                }
-            } else {
-                count--;
-                ans.append(character);
-            }
-
-            // If count is greater than zero, add it to priority queue.
-            if (count > 0) {
-                pq.add(new Pair(count, character));
-            }
-        }
-        return ans.toString();
+class CharCountPair implements Comparable<CharCountPair> {
+    Character character;
+    int count;
+    public CharCountPair(char character, int count) {
+        this.character = character;
+        this.count = count;
     }
 
-    class Pair {
+    public int compareTo(CharCountPair cp) {
+        return cp.count - this.count;
+    }
+}
 
-        int count;
-        char character;
-
-        Pair(int count, char character) {
-            this.count = count;
-            this.character = character;
+class Solution {
+    public String longestDiverseString(int a, int b, int c) {
+        StringBuilder result = new StringBuilder();
+        PriorityQueue<CharCountPair> pq = new PriorityQueue<>();
+        if(a != 0) pq.offer(new CharCountPair('a', a));
+        if(c != 0) pq.offer(new CharCountPair('c', c));
+        if(b != 0) pq.offer(new CharCountPair('b', b));
+        while(!pq.isEmpty()) { //[a-1, b-1, c-6]
+            CharCountPair currentPair = pq.poll(); //c-1
+            currentPair.count--; //0
+            int resultLen = result.length(); //8
+            System.out.println(resultLen);
+            if( resultLen >= 2 && (result.charAt(resultLen - 1) == currentPair.character)
+                && (result.charAt(resultLen - 2) == currentPair.character)) { //false
+                    if(pq.isEmpty()) break;
+                    CharCountPair nextOnPriority = pq.poll(); //a-1
+                    result.append(nextOnPriority.character); //ccbcca
+                    nextOnPriority.count--; //a-0
+                    if(nextOnPriority.count != 0) pq.offer(nextOnPriority);
+                }
+            result.append(currentPair.character); //res = 'ccbccacc'
+            if(currentPair.count != 0) pq.offer(currentPair); 
         }
+        return result.toString();
     }
 }
