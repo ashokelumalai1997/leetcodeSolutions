@@ -11,16 +11,17 @@ class Solution {
             dp[i][nums[i]]++;
         }
 
-        for(int i = 0; i < n-1; i++) {
+        for(int i = n-2; i >= 0 ; i--) {
             for(int j = 0; j <= maxOr; j++) {
-                if(dp[i][j] == 0) continue;
-                int nextOr = j | nums[i+1];
-                dp[i+1][nextOr] += dp[i][j];
-                dp[i+1][j] += dp[i][j];
+                dp[i][j] += dp[i+1][j];
+                if(dp[i+1][j] != 0) {
+                    int currentOr = j | nums[i];
+                    dp[i][currentOr] += dp[i+1][j];
+                }
             }
         }
 
-        return dp[n-1][maxOr];
+        return dp[0][maxOr];
     }
 }
 
