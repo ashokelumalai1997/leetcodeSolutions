@@ -260,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0060-permutation-sequence](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0060-permutation-sequence) |
 | [0791-split-bst](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0791-split-bst) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Binary Tree
 |  |
 | ------- |
@@ -421,6 +422,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0068-text-justification](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0068-text-justification) |
 | [1642-water-bottles](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1642-water-bottles) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1803-average-waiting-time](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1803-average-waiting-time) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -456,6 +458,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1304-longest-happy-string](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1304-longest-happy-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1720-crawler-log-folder](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1720-crawler-log-folder) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1818-maximum-score-from-removing-substrings) |
