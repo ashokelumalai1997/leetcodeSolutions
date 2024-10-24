@@ -8,9 +8,9 @@ class Solution {
             adjList.putIfAbsent(source, new ArrayList<>());
             adjList.get(source).add(new int[]{target, timeN});
         }
-        for(List<int[]> l : adjList.values()) {
-            Collections.sort(l, (a, b)-> a[1]-b[1]);
-        }
+        // for(List<int[]> l : adjList.values()) {
+        //     Collections.sort(l, (a, b)-> a[1]-b[1]);
+        // }
         return adjList;
     }
 
@@ -23,7 +23,7 @@ class Solution {
         return result;
     }
 
-    
+
     public int networkDelayTime(int[][] times, int n, int k) {
         int result = 0;
         Map<Integer, List<int[]>> adjList = prepareAdjacencyList(times);
