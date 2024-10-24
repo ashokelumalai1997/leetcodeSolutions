@@ -14,7 +14,7 @@ class Solution {
         }
         int[] visited = new int[n+1];
         for(int i = 1; i <= n; i++) visited[i] = Integer.MAX_VALUE;
-        PriorityQueue<int[]> q = new PriorityQueue<>((a,b) -> a[1]-b[1]);
+        Queue<int[]> q = new LinkedList<>();
         q.offer(new int[]{k, 0});
         visited[k] = 0;
         while(!q.isEmpty()) {
