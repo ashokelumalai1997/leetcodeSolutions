@@ -1,6 +1,5 @@
 class Solution {
-    public int networkDelayTime(int[][] times, int n, int k) {
-        int result = 0;
+    private Map<Integer, List<int[]>> prepareAdjacencyList(int[][] times) {
         Map<Integer, List<int[]>> adjList = new HashMap<>();
         for(int[] time : times) {
             int source = time[0];
@@ -12,6 +11,22 @@ class Solution {
         for(List<int[]> l : adjList.values()) {
             Collections.sort(l, (a, b)-> a[1]-b[1]);
         }
+        return adjList;
+    }
+
+    private int result(int[] visited) {
+        int result = visited[0];
+        for(int i = 1; i < visited.length; i ++) {
+            if(visited[i] == Integer.MAX_VALUE) return -1;
+            result = Math.max(result, visited[i]);
+        }
+        return result;
+    }
+
+    
+    public int networkDelayTime(int[][] times, int n, int k) {
+        int result = 0;
+        Map<Integer, List<int[]>> adjList = prepareAdjacencyList(times);
         int[] visited = new int[n+1];
         for(int i = 1; i <= n; i++) visited[i] = Integer.MAX_VALUE;
         Queue<int[]> q = new LinkedList<>();
@@ -32,11 +47,9 @@ class Solution {
                 }
             }
         }
-        result = visited[0];
-        for(int i = 1; i <= n; i ++) {
-            if(visited[i] == Integer.MAX_VALUE) return -1;
-            result = Math.max(result, visited[i]);
-        }
-        return result;
+        return result(visited);
     }
+    
+
+    
 }
