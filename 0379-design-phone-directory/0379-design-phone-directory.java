@@ -1,9 +1,9 @@
 class PhoneDirectory {
     int[] flag;
-    PriorityQueue<Integer> pq;
+    Queue<Integer> pq;
     public PhoneDirectory(int maxNumbers) {
         flag = new int[maxNumbers];
-        pq = new PriorityQueue<>();
+        pq = new LinkedList<>();
         for(int i = 0; i < maxNumbers; i++) {
             flag[i] = 1;
             pq.offer(i);
