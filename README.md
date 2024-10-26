@@ -385,6 +385,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0295-find-median-from-data-stream](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0295-find-median-from-data-stream) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0443-string-compression](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0567-permutation-in-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -478,6 +479,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0068-text-justification](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0068-text-justification) |
 | [0179-largest-number](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0179-largest-number) |
+| [0443-string-compression](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0443-string-compression) |
 | [0539-minimum-time-difference](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0567-permutation-in-string) |
 | [0664-strange-printer](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0664-strange-printer) |
