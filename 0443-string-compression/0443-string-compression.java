@@ -1,13 +1,9 @@
 class Solution {
     private int insertNum(char[] chars, int nextIndex, int num) {
-        Stack<Character> st = new Stack<>();
-        while(num > 9) {
-            st.push(String.valueOf(num%10).charAt(0));
-            num /= 10;
-        }
-        st.push(String.valueOf(num).charAt(0));
-        while(!st.isEmpty()) {
-            chars[nextIndex] = st.pop();
+        String numStr = String.valueOf(num);
+        char[] numCh = numStr.toCharArray();
+        for(char ch : numCh) {
+            chars[nextIndex] = ch;
             nextIndex++;
         }
         return nextIndex;
