@@ -1,7 +1,6 @@
 class Solution {
     private int insertNum(char[] chars, int nextIndex, int num) {
-        String numStr = String.valueOf(num);
-        char[] numCh = numStr.toCharArray();
+        char[] numCh = String.valueOf(num).toCharArray();
         for(char ch : numCh) {
             chars[nextIndex] = ch;
             nextIndex++;
