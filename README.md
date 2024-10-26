@@ -215,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1883-find-distance-in-a-binary-tree](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1883-find-distance-in-a-binary-tree) |
 | [2035-count-sub-islands](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2035-count-sub-islands) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
 |  |
@@ -224,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1484-linked-list-in-binary-tree](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1484-linked-list-in-binary-tree) |
 | [1883-find-distance-in-a-binary-tree](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1883-find-distance-in-a-binary-tree) |
 | [2035-count-sub-islands](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2035-count-sub-islands) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Graph
 |  |
@@ -255,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1883-find-distance-in-a-binary-tree](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1883-find-distance-in-a-binary-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Search Tree
 |  |
@@ -286,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1883-find-distance-in-a-binary-tree](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1883-find-distance-in-a-binary-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Array
 |  |
@@ -338,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2727-number-of-senior-citizens](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2727-number-of-senior-citizens) |
