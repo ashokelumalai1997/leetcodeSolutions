@@ -21,7 +21,7 @@
                 if(matrix[i][j] != 1) continue;
                 int mats = 0;
                 for(int k = 0; k < Math.max(m,n); k++) {
-                    if(i+k < m && j+k < n && matrix[i+k][j+k] == 1) {
+                    if(i+k < m && j+k < n) {
                         if(checkRows(i, j, k, matrix) && checkCols(i, j, k, matrix)) mats++;
                         else break;
                     } else {
