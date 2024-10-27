@@ -1,7 +1,10 @@
  class Solution {
-    public boolean checkCols(int i, int j, int k, int[][] mat) {
+    public boolean checkRowsAndCols(int i, int j, int k, int[][] mat) {
         for(int ii = i; ii <= i+k; ii++) {
             if(mat[ii][j+k] == 0) return false;
+        }
+        for(int jj = j; jj <= j+k; jj++) {
+            if(mat[i+k][jj] == 0) return false;
         }
         return true;
     }
@@ -21,9 +24,8 @@
                 if(matrix[i][j] != 1) continue;
                 int mats = 0;
                 for(int k = 0; k < Math.max(m,n); k++) {
-                    if(i+k < m && j+k < n) {
-                        if(checkRows(i, j, k, matrix) && checkCols(i, j, k, matrix)) mats++;
-                        else break;
+                    if(i+k < m && j+k < n && checkRowsAndCols(i, j, k, matrix)) {
+                         mats++;
                     } else {
                         break;
                     }
