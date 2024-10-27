@@ -1,46 +1,21 @@
- class Solution {
-    public boolean checkRowsAndCols(int i, int j, int k, int[][] mat) {
-        for(int ii = i; ii <= i+k; ii++) {
-            if(mat[ii][j+k] == 0) return false;
-        }
-        for(int jj = j; jj <= j+k; jj++) {
-            if(mat[i+k][jj] == 0) return false;
-        }
-        return true;
-    }
+class Solution {
+    public int countSquares(int[][] mat) {
+        int m = mat.length;
+        int n = mat[0].length;
 
-    public boolean checkRows(int i, int j, int k, int[][] mat) {
-        for(int jj = j; jj <= j+k; jj++) {
-            if(mat[i+k][jj] == 0) return false;
-        }
-        return true;
-    }
-    public int countSquares(int[][] matrix) {
-        int m = matrix.length;
-        int n = matrix[0].length;
-        int total = 0;
+        int[][] dp = new int[m][n];
+        int res = 0;
+
         for(int i = 0; i < m; i++) {
             for(int j = 0; j < n; j++) {
-                if(matrix[i][j] != 1) continue;
-                int mats = 0;
-                for(int k = 0; k < Math.max(m,n); k++) {
-                    if(i+k < m && j+k < n && checkRowsAndCols(i, j, k, matrix)) {
-                         mats++;
-                    } else {
-                        break;
-                    }
-                }
-                total += mats;
+                int current = mat[i][j];
+                int up = i-1 >= 0 ? dp[i-1][j] : 0;
+                int left = j-1 >= 0 ? dp[i][j-1] : 0;
+                int upLeft = i-1 >= 0 && j-1 >= 0 ? dp[i-1][j-1] : 0;
+                dp[i][j] = current == 0 ? 0 : current + Math.min(up, Math.min(left, upLeft));
+                res += dp[i][j];
             }
         }
-        return total;
+        return res;
     }
 }
-
-
-// for every m,n 300*300
-//     IF CURRENT CELL HAS 1
-//         for every right down ddiagonal cell n 300
-//             check all the sub mat cells (m*n) 300*300
-        
-
