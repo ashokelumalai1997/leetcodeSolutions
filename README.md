@@ -349,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2727-number-of-senior-citizens](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2727-number-of-senior-citizens) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2846-robot-collisions](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2846-robot-collisions) |
 | [2849-sum-of-imbalance-numbers-of-all-subarrays](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2849-sum-of-imbalance-numbers-of-all-subarrays) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -533,6 +534,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2035-count-sub-islands](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2472-build-a-matrix-with-conditions](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2472-build-a-matrix-with-conditions) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -591,6 +593,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1511-count-number-of-teams) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Shortest Path
 |  |
 | ------- |
