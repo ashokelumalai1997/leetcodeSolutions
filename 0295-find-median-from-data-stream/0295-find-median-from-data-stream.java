@@ -1,44 +1,34 @@
 class MedianFinder {
-    PriorityQueue<Integer> topSet;
-    PriorityQueue<Integer> bottomSet;
-    public MedianFinder() {
-        topSet = new PriorityQueue<>((a,b) -> b-a);
-        bottomSet = new PriorityQueue<>((a,b)->a-b);
-    }
+
+    private PriorityQueue<Integer> pqMin;
+
+    private PriorityQueue<Integer> pqMax;
     
+    public MedianFinder() {
+        pqMin = new PriorityQueue<>((a,b) -> a - b);
+        pqMax = new PriorityQueue<>((a,b) -> b-a);
+    }
+
     public void addNum(int num) {
-        if(topSet.isEmpty()) {
-            topSet.offer(num);
-            return;
-        }
-
-        int topFirst = topSet.peek();
-        // int bottomFirst = bottomSet.first();
-
-        if(topFirst > num) {
-            topSet.offer(num);
+        if(pqMax.isEmpty() || pqMax.peek() >= num) {
+            pqMax.offer(num);
         } else {
-            bottomSet.offer(num);
+            pqMin.offer(num);
         }
-
-        int topSize = topSet.size();
-        int bottomSize = bottomSet.size();
-
-        if(topSize > bottomSize+1) {
-            bottomSet.offer(topSet.poll());
-        } else if(bottomSize > topSize+1) {
-            topSet.offer(bottomSet.poll());
+        if(pqMin.size() < pqMax.size()-1) {
+            pqMin.offer(pqMax.poll());
+        }
+        else if(pqMin.size() > pqMax.size()) {
+            pqMax.offer(pqMin.poll());
         }
     }
     
     public double findMedian() {
-        
-        if(topSet.size() == bottomSet.size()) return (topSet.peek() + bottomSet.peek())/2.0;
+        if(pqMax.size() == pqMin.size()) return (pqMax.peek() + pqMin.peek())/2.0;
 
-        if(topSet.size() > bottomSet.size()) return topSet.peek();
+        if(pqMax.size() > pqMin.size()) return pqMax.peek();
 
-        return bottomSet.peek();
-
+        return pqMin.peek();
     }
 }
 
@@ -49,8 +39,15 @@ class MedianFinder {
  * double param_2 = obj.findMedian();
  */
 
+// 1 2 6 .
+// .7 8 10
 
-//  1 2 3 4 5 
+// 1 2 10 7 8 6
 
-//  topHalf    [1,2]
-//  bottomHalf [3,4]
+// 1 2 6 
+// 7 8 10
+
+
+// if(num < top of max heap) push it to max heap
+// else push it to min heap
+
