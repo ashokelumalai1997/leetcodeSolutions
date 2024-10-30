@@ -10,15 +10,11 @@ class MedianFinder {
     }
 
     public void addNum(int num) {
-        if(pqMax.isEmpty() || pqMax.peek() >= num) {
-            pqMax.offer(num);
-        } else {
-            pqMin.offer(num);
-        }
-        if(pqMin.size() < pqMax.size()-1) {
-            pqMin.offer(pqMax.poll());
-        }
-        else if(pqMin.size() > pqMax.size()) {
+        pqMax.offer(num);
+
+        pqMin.offer(pqMax.poll());
+
+        if(pqMax.size() < pqMin.size()) {
             pqMax.offer(pqMin.poll());
         }
     }
