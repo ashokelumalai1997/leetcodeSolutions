@@ -34,9 +34,9 @@ class Solution {
             return new CameraResult(0, 1, 0);
         }
 
-        if(root.right == null && root.left == null) {
-            return new CameraResult(1, 1, 0);
-        }
+        // if(root.right == null && root.left == null) {
+        //     return new CameraResult(1, 1, 0);
+        // }
         CameraResult right = getCamRes(root.right);
         CameraResult left = getCamRes(root.left);
 
