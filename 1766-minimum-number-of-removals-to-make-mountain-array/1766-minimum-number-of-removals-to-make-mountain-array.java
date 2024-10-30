@@ -6,9 +6,9 @@ class Solution {
         // LIS[n-1] = 1;
         Arrays.fill(LDS, 1);
         Arrays.fill(LIS, 1);
-        //          [1,3,1]
-        // LIS      [1,1,1]
-        // LDS      [1,1,1]
+        //          [9,8,1,7,6,5,4,3,2,1]
+        // LIS      [1,1,1,2,2,2,2,2,2,1]
+        // LDS      [8,7,1,7,6,5,4,3,2,1]
         for(int i = 0; i < n; i++ ) {
             for(int j = 0; j < i; j++) {
                 if(nums[j] < nums[i])
