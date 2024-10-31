@@ -47,18 +47,22 @@ class Solution {
             taskOrder[taskOrderTracker] = currentTask.index;
             taskOrderTracker++;
             current = current + currentTask.processingTime;
+
+            if(taskTracker < n && pq.isEmpty()) {
+               current = Math.max(current, taskList.get(taskTracker).start);
+            }
             
             for(; 
                         taskTracker < n && taskList.get(taskTracker).start <= current; taskTracker++) {
                 pq.offer(taskList.get(taskTracker));
             }
-            if(pq.isEmpty() && taskTracker < n) {
-                current = taskList.get(taskTracker).start;
-                while(taskTracker < n && taskList.get(taskTracker).start <= current) {
-                    pq.offer(taskList.get(taskTracker));
-                    taskTracker++;
-                }
-            }
+            // if(pq.isEmpty() && taskTracker < n) {
+            //     current = taskList.get(taskTracker).start;
+            //     while(taskTracker < n && taskList.get(taskTracker).start <= current) {
+            //         pq.offer(taskList.get(taskTracker));
+            //         taskTracker++;
+            //     }
+            // }
             // taskTracker = i;
         }
 
