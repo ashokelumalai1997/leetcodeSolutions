@@ -365,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0379-design-phone-directory](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0379-design-phone-directory) |
 | [0567-permutation-in-string](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0567-permutation-in-string) |
@@ -408,6 +409,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0015-3sum](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0015-3sum) |
 | [0179-largest-number](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0295-find-median-from-data-stream) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0435-non-overlapping-intervals) |
@@ -498,6 +500,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0072-edit-distance](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0072-edit-distance) |
 | [0132-palindrome-partitioning-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0179-largest-number](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0443-string-compression) |
 | [0539-minimum-time-difference](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0567-permutation-in-string) |
