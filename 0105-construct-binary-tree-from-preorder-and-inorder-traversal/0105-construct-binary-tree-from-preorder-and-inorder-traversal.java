@@ -33,7 +33,7 @@ class Solution {
                                 int pStart, int pEnd, 
                                 int iStart, int iEnd) {
         
-        if(pStart > pEnd || iStart > iEnd) return null;
+        if(pStart > pEnd ) return null;
         TreeNode node = new TreeNode(preorder[pStart]);
         if(pStart == pEnd) {
             return node;
