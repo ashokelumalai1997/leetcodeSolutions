@@ -4,18 +4,21 @@ class LUPrefix {
 
     int n;
 
-    Set<Integer> hs;
+    // Set<Integer> hs;
+    boolean[] hs;
 
     public LUPrefix(int n) {
-        hs = new HashSet<>();
+        hs = new boolean[n+1];
         this.n = n;
         this.waitingFor = 1;
     }
     
     public void upload(int video) {
-        hs.add(video);
+        // hs.add(video);
+        hs[video] = true;
         if(waitingFor == video) {
-            while(hs.contains(waitingFor)) waitingFor++;
+            // while(hs.contains(waitingFor)) waitingFor++;
+            while(waitingFor < n+1 && hs[waitingFor]) waitingFor++;
         }
     }
     
