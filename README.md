@@ -362,6 +362,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2846-robot-collisions](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2846-robot-collisions) |
 | [2849-sum-of-imbalance-numbers-of-all-subarrays](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2849-sum-of-imbalance-numbers-of-all-subarrays) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3247-number-of-same-end-substrings](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/3247-number-of-same-end-substrings) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
@@ -389,6 +390,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2849-sum-of-imbalance-numbers-of-all-subarrays](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2849-sum-of-imbalance-numbers-of-all-subarrays) |
+| [3247-number-of-same-end-substrings](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/3247-number-of-same-end-substrings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
@@ -525,6 +527,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3195-separate-black-and-white-balls](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/3195-separate-black-and-white-balls) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3247-number-of-same-end-substrings](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/3247-number-of-same-end-substrings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Stack
@@ -593,6 +596,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3247-number-of-same-end-substrings](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/3247-number-of-same-end-substrings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Dynamic Programming
 |  |
@@ -648,6 +652,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [3247-number-of-same-end-substrings](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/3247-number-of-same-end-substrings) |
 ## Game Theory
 |  |
 | ------- |
