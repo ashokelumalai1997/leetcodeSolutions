@@ -376,6 +376,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0205-isomorphic-strings](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0379-design-phone-directory](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0379-design-phone-directory) |
@@ -514,6 +515,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0115-distinct-subsequences](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0179-largest-number](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0443-string-compression) |
 | [0539-minimum-time-difference](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0539-minimum-time-difference) |
