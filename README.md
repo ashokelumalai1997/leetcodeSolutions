@@ -232,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Graph
 |  |
 | ------- |
+| [0511-all-paths-from-source-lead-to-destination](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0511-all-paths-from-source-lead-to-destination) |
 | [0744-network-delay-time](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0744-network-delay-time) |
 | [1101-parallel-courses](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1101-parallel-courses) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1229-shortest-path-with-alternating-colors) |
@@ -243,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Topological Sort
 |  |
 | ------- |
+| [0511-all-paths-from-source-lead-to-destination](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0511-all-paths-from-source-lead-to-destination) |
 | [1101-parallel-courses](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1101-parallel-courses) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2472-build-a-matrix-with-conditions](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2472-build-a-matrix-with-conditions) |
