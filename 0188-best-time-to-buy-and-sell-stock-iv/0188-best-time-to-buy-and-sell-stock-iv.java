@@ -25,8 +25,10 @@ class Solution {
 
         int pro = 0;
 
+        int[][][] dp = new int[n][2][k*2+1];
+
         for(int pr = 1; pr <= k; pr++) {
-            int[][][] dp = new int[n][2][pr*2+1];
+            
 
             for(int i = 0; i < n; i ++) {
                 for(int j = 0; j < 2; j++) {
