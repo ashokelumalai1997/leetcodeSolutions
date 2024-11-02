@@ -335,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0379-design-phone-directory](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0379-design-phone-directory) |
 | [0416-partition-equal-subset-sum](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0435-non-overlapping-intervals) |
+| [0485-max-consecutive-ones](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0485-max-consecutive-ones) |
 | [0518-coin-change-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0518-coin-change-ii) |
 | [0539-minimum-time-difference](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
