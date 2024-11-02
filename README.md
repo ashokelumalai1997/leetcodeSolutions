@@ -414,6 +414,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0042-trapping-rain-water) |
+| [0151-reverse-words-in-a-string](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0151-reverse-words-in-a-string) |
 | [0295-find-median-from-data-stream](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0295-find-median-from-data-stream) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0443-string-compression) |
@@ -520,6 +521,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0072-edit-distance](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0132-palindrome-partitioning-ii) |
+| [0151-reverse-words-in-a-string](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0242-valid-anagram) |
