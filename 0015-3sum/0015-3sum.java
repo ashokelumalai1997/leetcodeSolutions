@@ -21,10 +21,10 @@ class Solution {
             int left = i+1;
             int right = n-1;
             while(left < right) {
-                if(left-1 != i && nums[left] == nums[left-1]) {
-                    left++;
-                    continue;
-                }
+                // if(left-1 != i && nums[left] == nums[left-1]) {
+                //     left++;
+                //     continue;
+                // }
                 if(nums[left] + nums[right] == target) {
                     List<Integer> newEntry = new ArrayList<>();
                     newEntry.add(nums[i]);
@@ -38,7 +38,7 @@ class Solution {
                 } else {
                     left++;
                 }
-                // while(left < n-1 && nums[left - 1] == nums[left]) left++;
+                while(left-1 != i && left < n && nums[left - 1] == nums[left]) left++;
             }
             // while()
         }
