@@ -202,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0113-path-sum-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0386-lexicographical-numbers) |
@@ -255,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0113-path-sum-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0113-path-sum-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0173-binary-search-tree-iterator) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -293,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0113-path-sum-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0113-path-sum-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0173-binary-search-tree-iterator) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -752,6 +755,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Backtracking
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0113-path-sum-ii) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Enumeration
 |  |
