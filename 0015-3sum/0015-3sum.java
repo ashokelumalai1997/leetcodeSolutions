@@ -32,13 +32,15 @@ class Solution {
                     newEntry.add(nums[right]);
                     res.add(newEntry);
                     // while(left+1 < n && nums[left] == nums[left+1]) left++;                  
+                    
                     left++;
+                    while(left < n && nums[left - 1] == nums[left]) left++;
                 } else if(nums[left] + nums[right] > target) {
                     right--;
                 } else {
                     left++;
                 }
-                while(left-1 != i && left < n && nums[left - 1] == nums[left]) left++;
+               
             }
             // while()
         }
