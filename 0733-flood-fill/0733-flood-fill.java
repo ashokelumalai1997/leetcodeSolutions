@@ -17,12 +17,12 @@ class Solution {
             int[] node = q.poll();
             int r = node[0];
             int c = node[1];
-            // image[r][c] = color;
+            image[r][c] = color;
             for(int[] dir : directions) {
                 if(r + dir[0] < m && r+ dir[0] >= 0
                     && c +dir[1] < n && c + dir[1] >= 0) {
                 if(image[r+dir[0]][c+dir[1]] == originalColor) {
-                    image[r+dir[0]][c+dir[1]] = color;
+                    // image[r+dir[0]][c+dir[1]] = color;
                     q.offer(new int[]{r+dir[0], c+dir[1]});
                 }
                     }
