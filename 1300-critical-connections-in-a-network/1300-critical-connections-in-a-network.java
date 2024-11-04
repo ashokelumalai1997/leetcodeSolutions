@@ -19,10 +19,10 @@ class Solution {
                         node, criticalEdges, adjList);
                     low[node] = Math.min(low[child], low[node]);
                     if(low[child] > disc[node]) {
-                        List<Integer> edge = new ArrayList<>();
-                        edge.add(node);
-                        edge.add(child);
-                        criticalEdges.add(edge);
+                        // List<Integer> edge = new ArrayList<>();
+                        // edge.add(node);
+                        // edge.add(child);
+                        criticalEdges.add(Arrays.asList(node, child));
                     }
                 } else {
                     
