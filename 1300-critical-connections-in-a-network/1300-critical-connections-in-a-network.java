@@ -12,6 +12,8 @@ class Solution {
             time++;
 
             for(int child : adjList.get(node)) {
+
+                if(parent == child) continue;
                 if(!vis[child]) {
                     fillAllCriticalEdges(child, low, disc, vis, 
                         node, criticalEdges, adjList);
@@ -23,7 +25,7 @@ class Solution {
                         criticalEdges.add(edge);
                     }
                 } else {
-                    if(parent != child)
+                    
                     low[node] = Math.min(low[node], disc[child]);
                 }
             }
