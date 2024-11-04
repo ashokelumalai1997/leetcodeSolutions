@@ -215,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1207-delete-nodes-and-return-forest](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1300-critical-connections-in-a-network](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1300-critical-connections-in-a-network) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1883-find-distance-in-a-binary-tree](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1883-find-distance-in-a-binary-tree) |
@@ -271,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0988-flip-equivalent-binary-trees](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1008-binary-tree-cameras](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1008-binary-tree-cameras) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1207-delete-nodes-and-return-forest) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1883-find-distance-in-a-binary-tree](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1883-find-distance-in-a-binary-tree) |
@@ -312,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0988-flip-equivalent-binary-trees](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1008-binary-tree-cameras](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1008-binary-tree-cameras) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1207-delete-nodes-and-return-forest) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1883-find-distance-in-a-binary-tree](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1883-find-distance-in-a-binary-tree) |
@@ -691,6 +694,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1250-longest-common-subsequence](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1511-count-number-of-teams](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1511-count-number-of-teams) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
