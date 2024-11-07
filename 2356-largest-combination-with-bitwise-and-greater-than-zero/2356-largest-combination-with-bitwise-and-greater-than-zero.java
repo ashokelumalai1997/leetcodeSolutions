@@ -8,10 +8,9 @@ class Solution {
             while(bit < 31) {
                 int mask = (1 << bit);
                 int bitAnd = mask&num;
-                bitTracker[bit] += (bitAnd > 0) ? 1 : 0;
+                bitTracker[bit] += (((1 << bit)&num) > 0) ? 1 : 0;
                 bit++;
             }
-            
         }
 
         int max = 0;
