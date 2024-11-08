@@ -573,6 +573,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0072-edit-distance) |
@@ -615,6 +616,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0173-binary-search-tree-iterator) |
