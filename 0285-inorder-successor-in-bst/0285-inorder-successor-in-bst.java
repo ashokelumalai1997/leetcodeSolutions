@@ -8,22 +8,48 @@
  * }
  */
 class Solution {
-    public TreeNode findMin(TreeNode root){
-        if(root==null) return null;
-        if(root.left!=null) return findMin(root.left);
-        return root;
+    // public Stack<Integer> s;
+    public TreeNode getMin(TreeNode root) {
+        if(root.left == null) return root;
+        return getMin(root.left);
     }
-    public TreeNode ios(TreeNode root, TreeNode p, TreeNode parent){
-        if(root==null) return null;
-        if(root==p){
-            if(root.right!=null) return findMin(root.right);
-            else return parent;
+    public TreeNode ios(TreeNode root, TreeNode p, Stack<TreeNode> s) {
+        if(root == null) return null;
+
+        if(root.val == p.val) {
+            if(root.right != null) return getMin(root.right);
+            if(s.size() != 0) return s.peek();
+            return null;
         }
-        if(p.val<root.val) return ios(root.left,p,root);
-        return ios(root.right,p,parent);
+
+        s.push(root);
+        TreeNode l = ios(root.left , p, s);
+
+        if(l != null) return l;
+        s.pop();
+        TreeNode r = ios(root.right, p, s);
+
+        return r;
+
     }
     public TreeNode inorderSuccessor(TreeNode root, TreeNode p) {
-        TreeNode parent=null;
-        return ios(root,p,parent);
+        // if(root == null) return null;
+        return ios(root, p, new Stack<>());
+
     }
 }
+
+        //                     a
+        //                 b       c
+        //             c
+        //         d       e
+        //             f
+        //         g       h    
+
+        // do iot
+        //     if target is found,
+        //         if right is not null, return min of right
+        //         else return last one from ancestors 
+        //             note: ancestors are added while moving left, removed while moving right
+
+
