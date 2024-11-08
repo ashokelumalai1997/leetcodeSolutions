@@ -389,6 +389,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1786-count-the-number-of-consistent-strings](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1803-average-waiting-time) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1940-maximum-xor-for-each-query](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1940-maximum-xor-for-each-query) |
 | [1962-single-threaded-cpu](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1962-single-threaded-cpu) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2035-count-sub-islands) |
@@ -744,6 +745,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1240-stone-game-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1940-maximum-xor-for-each-query](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3247-number-of-same-end-substrings](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/3247-number-of-same-end-substrings) |
@@ -760,6 +762,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1435-xor-queries-of-a-subarray](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1940-maximum-xor-for-each-query](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
