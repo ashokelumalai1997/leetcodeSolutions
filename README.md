@@ -206,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0113-path-sum-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0113-path-sum-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0285-inorder-successor-in-bst](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0285-inorder-successor-in-bst) |
 | [0337-house-robber-iii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0337-house-robber-iii) |
 | [0386-lexicographical-numbers](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0386-lexicographical-numbers) |
 | [0733-flood-fill](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0733-flood-fill) |
@@ -270,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0145-binary-tree-postorder-traversal](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0173-binary-search-tree-iterator) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0285-inorder-successor-in-bst](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0285-inorder-successor-in-bst) |
 | [0337-house-robber-iii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0337-house-robber-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0450-delete-node-in-a-bst) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -290,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0173-binary-search-tree-iterator) |
+| [0285-inorder-successor-in-bst](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0285-inorder-successor-in-bst) |
 | [0287-find-the-duplicate-number](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -315,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0145-binary-tree-postorder-traversal](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0173-binary-search-tree-iterator) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0285-inorder-successor-in-bst](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0285-inorder-successor-in-bst) |
 | [0337-house-robber-iii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0337-house-robber-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0450-delete-node-in-a-bst) |
 | [0791-split-bst](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0791-split-bst) |
