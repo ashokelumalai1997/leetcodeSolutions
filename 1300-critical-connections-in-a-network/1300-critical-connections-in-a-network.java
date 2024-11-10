@@ -24,12 +24,13 @@ class Solution {
             if(!vis[child]) {
                 findBridges(child, low, disc, node, vis, time, adj, bridges);
                 low[node] = Math.min(low[child], low[node]);
+                if(low[child] > disc[node]) {
+                    bridges.add(Arrays.asList(node, child));
+                }
             } else {
                 low[node] = Math.min(disc[child], low[node]);
             }
-            if(low[child] > disc[node]) {
-                bridges.add(Arrays.asList(node, child));
-            }
+            
         }
 
     }
