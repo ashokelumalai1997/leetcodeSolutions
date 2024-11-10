@@ -1,59 +1,71 @@
+// if child is parent , skip
+// if child is visited , update low of current with disc of child
+// do dfs of child
+// update low of node with node of child
+// if low of child > disc of current node, add it to bridges
+
+
 class Solution {
 
-    int time;
+    private void findBridges(int node, int[] low, int[] disc, int parent, 
+                        boolean[] vis, int[] time, List<List<Integer>> adj, 
+                            List<List<Integer>> bridges) {
+        if(vis[node]) return;
 
-    private void fillAllCriticalEdges(int node, int[] low, int[] disc, 
-        boolean[] vis, int parent, List<List<Integer>> criticalEdges, 
-        List<List<Integer>> adjList) {
+        vis[node] = true;
 
-            vis[node] = true;
-            low[node]  =time;
-            disc[node] = time;
-            time++;
+        low[node] = time[0];
+        disc[node] = time[0];
 
-            for(int child : adjList.get(node)) {
+        time[0] ++ ;
 
-                if(parent == child) continue;
-                if(!vis[child]) {
-                    fillAllCriticalEdges(child, low, disc, vis, 
-                        node, criticalEdges, adjList);
-                    low[node] = Math.min(low[child], low[node]);
-                    if(low[child] > disc[node]) {
-                        // List<Integer> edge = new ArrayList<>();
-                        // edge.add(node);
-                        // edge.add(child);
-                        criticalEdges.add(Arrays.asList(node, child));
-                    }
-                } else {
-                    
-                    low[node] = Math.min(low[node], disc[child]);
-                }
+        for(int child : adj.get(node)) {
+            if(child == parent) continue;
+            if(!vis[child]) {
+                findBridges(child, low, disc, node, vis, time, adj, bridges);
+                low[node] = Math.min(low[child], low[node]);
+            } else {
+                low[node] = Math.min(disc[child], low[node]);
             }
+            if(low[child] > disc[node]) {
+                bridges.add(Arrays.asList(node, child));
+            }
+        }
 
     }
     public List<List<Integer>> criticalConnections(int n, List<List<Integer>> connections) {
-        List<List<Integer>> adjList = new ArrayList<>();
-        for(int i = 0 ; i < n; i++) {
-            adjList.add(new ArrayList<>());
-        }
-
-        for(List<Integer> edge : connections) {
-            int u = edge.get(0);
-            int v = edge.get(1);
-            adjList.get(u).add(v);
-            adjList.get(v).add(u);
-        }
-
-        List<List<Integer>> criticalEdges = new ArrayList<>();
-
+        int[] time = {1};
+        int parent = -1;
         boolean[] vis = new boolean[n];
         int[] low = new int[n];
         int[] disc = new int[n];
-
-        time = 1;
-
-        fillAllCriticalEdges(0, low, disc, vis, -1, criticalEdges, adjList);
-
-        return criticalEdges;
+        List<List<Integer>> bridges = new ArrayList<>();
+        List<List<Integer>> adj = new ArrayList<>();
+        for(int i = 0; i < n; i++) {
+            adj.add(new ArrayList<>());
+        }
+        for(List<Integer> edge :  connections) {
+            adj.get(edge.get(0)).add(edge.get(1));
+            adj.get(edge.get(1)).add(edge.get(0));
+        }
+        findBridges(0, low, disc, parent, vis, time, adj, bridges);
+        return bridges;
     }
 }
+
+
+
+
+
+//         1 d/l
+//         2 d/l
+//         3 d/l
+//     4       5 d/l
+//         6
+
+
+
+// // 1,2
+// 2,3
+
+
