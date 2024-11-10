@@ -1,36 +1,48 @@
 class Solution {
+
+    static class QEntry {
+        int col;
+        int node;
+        public QEntry(int node, int color) {
+            this.node = node;
+            col = color;
+        }
+    }
     public boolean isBipartite(int[][] graph) {
+        Queue<QEntry> q = new LinkedList<>();
+
         int n = graph.length;
-        int[] colors = new int[n];      // 0 - red, 1- blue, -1 - unassgnd
+        int[] color = new int[n];
 
-        Arrays.fill(colors, -1);
+        boolean[] vis = new boolean[n];
 
-        for(int i = 0; i < n; i ++) {
-            if(colors[i] != -1) continue;
-            Queue<Integer> q = new LinkedList<>();
-            colors[i] = 0;
-            q.offer(i);
-            while(!q.isEmpty()) {
-                int node = q.poll();
-                int currentColor = colors[node];
-                for(int child : graph[node]) {
-                    if(colors[child] == colors[node]) return false;
-                    if(colors[child] == -1) {
-                        colors[child] = currentColor == 1 ? 0 : 1;
-                        q.offer(child);
-                    }
-                }
+        for(int i = 0; i <n; i++) {
+
+            if(color[i] != 0) continue;
+
+        q.offer(new QEntry(i, -1));
+        vis[i] = true;
+        
+
+        color[i] = -1;
+
+        while(!q.isEmpty()) {
+            QEntry qe = q.poll();
+            int node = qe.node;
+            int col = qe.col;
+
+            int neededColor  = (col == -1) ? 1 : -1;
+
+            for(int child : graph[node]) {
+                if(vis[child] && color[child] == col) return false;
+                if(vis[child]) continue;
+                q.add(new QEntry(child, neededColor));
+                color[child] = neededColor;
+                vis[child] = true;
             }
+        }
         }
 
         return true;
     }
 }
-
-
-// do a bfs from all the nodes
-
-// if child node is already assigned a color, and its same as current, return false
-
-// if child is not assigned a color
-// assign a different color to the child nodes, add it to the queue
