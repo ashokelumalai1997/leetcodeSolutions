@@ -369,6 +369,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [1097-stream-of-characters](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1097-stream-of-characters) |
 | [1098-largest-unique-number](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1098-largest-unique-number) |
+| [1121-partition-array-for-maximum-sum](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1121-partition-array-for-maximum-sum) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1240-stone-game-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1240-stone-game-ii) |
@@ -712,6 +713,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0650-2-keys-keyboard](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0664-strange-printer) |
 | [1008-binary-tree-cameras](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1008-binary-tree-cameras) |
+| [1121-partition-array-for-maximum-sum](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1121-partition-array-for-maximum-sum) |
 | [1240-stone-game-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1240-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1402-count-square-submatrices-with-all-ones) |
