@@ -306,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2512-longest-uploaded-prefix](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2512-longest-uploaded-prefix) |
+| [2716-prime-subtraction-operation](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2716-prime-subtraction-operation) |
 ## Recursion
 |  |
 | ------- |
@@ -419,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2554-minimum-total-distance-traveled](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2716-prime-subtraction-operation](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2716-prime-subtraction-operation) |
 | [2727-number-of-senior-citizens](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2727-number-of-senior-citizens) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2846-robot-collisions](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2846-robot-collisions) |
@@ -526,6 +528,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2716-prime-subtraction-operation](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2716-prime-subtraction-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Linked List
@@ -577,6 +580,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1240-stone-game-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1240-stone-game-ii) |
 | [1642-water-bottles](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2645-pass-the-pillow) |
+| [2716-prime-subtraction-operation](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## String
 |  |
@@ -790,6 +794,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Number Theory
 |  |
 | ------- |
+| [2716-prime-subtraction-operation](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Ordered Set
 |  |
