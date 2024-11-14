@@ -10,15 +10,16 @@ class RLEIterator {
     }
     
     public int next(int n) {
-        if(pointer > enc.length-1) return -1;
-        if(enc[pointer] >= n) {
-            int ele = enc[pointer+1];
-            enc[pointer] -= n;
-            return ele;
+        while(pointer < enc.length && enc[pointer] < n) {
+            n -= enc[pointer];
+            pointer += 2;
         }
-        n -= enc[pointer];
-        pointer += 2;
-        return next(n);
+        
+        if(pointer > enc.length-1) return -1;
+        
+        int ele = enc[pointer+1];
+        enc[pointer] -= n;
+        return ele;
     }
 }
 
