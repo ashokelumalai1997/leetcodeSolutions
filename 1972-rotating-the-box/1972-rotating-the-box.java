@@ -21,22 +21,22 @@ class Solution {
 	    int m = box.length;
 	    int n = box[0].length;
 	    for(int i = 0; i < n; i++) {
-		    for(int j = m-2; j >= 0; j--) {
-			    if(box[j][i] == '.' || box[j][i] == '*') {
-				    continue;
+            int low = m-1;
+		    for(int j = m-1; j >= 0; j--) {
+			    if(box[j][i] == '*') {
+                    low = j-1;
+                    continue;
                 }
-                int replacePos = j;
-			    for(int k = j+1; k < m; k++) {
-				    if(box[k][i] == '.') {
-					    replacePos = k;
-                    } else {
-		                break;
-                    }
+
+                if(box[j][i] == '#') {
+                    
+                    box[j][i] = '.';
+                    box[low][i] = '#';
+                    
+                    low--;
                 }
-                if(replacePos != j) {
-	                box[replacePos][i] = '#';
-	                box[j][i] = '.';
-                }
+
+                
             }
         }
     }
