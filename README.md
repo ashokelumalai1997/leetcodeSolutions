@@ -244,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2035-count-sub-islands](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2035-count-sub-islands) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2677-cousins-in-binary-tree-ii) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Graph
 |  |
 | ------- |
@@ -260,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2472-build-a-matrix-with-conditions](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2472-build-a-matrix-with-conditions) |
 | [3189-find-champion-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/3189-find-champion-ii) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Topological Sort
 |  |
 | ------- |
@@ -443,6 +445,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3247-number-of-same-end-substrings](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/3247-number-of-same-end-substrings) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Hash Table
 |  |
