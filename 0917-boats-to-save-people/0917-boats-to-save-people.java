@@ -9,7 +9,7 @@ class Solution {
 
         int count = 0;
 
-        while(l < r) {
+        while(l <= r) {
             if(people[l] + people[r] <= limit) {
                 l++;
             }
@@ -17,7 +17,7 @@ class Solution {
             count++;
         }
 
-        if(l == r) count++;
+        // if(l == r) count++;
 
         return count;
         
