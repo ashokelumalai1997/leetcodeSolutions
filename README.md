@@ -396,6 +396,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0794-swim-in-rising-water](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0794-swim-in-rising-water) |
 | [0859-design-circular-deque](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0859-design-circular-deque) |
 | [0907-koko-eating-bananas](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0907-koko-eating-bananas) |
+| [0917-boats-to-save-people](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0917-boats-to-save-people) |
 | [0936-rle-iterator](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0936-rle-iterator) |
 | [0948-sort-an-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1019-squares-of-a-sorted-array) |
@@ -511,6 +512,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0350-intersection-of-two-arrays-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0567-permutation-in-string) |
+| [0917-boats-to-save-people](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1051-shortest-way-to-form-string](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1051-shortest-way-to-form-string) |
 | [1972-rotating-the-box](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1972-rotating-the-box) |
@@ -532,6 +534,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0539-minimum-time-difference](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0726-number-of-atoms](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0726-number-of-atoms) |
+| [0917-boats-to-save-people](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
@@ -558,6 +561,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0435-non-overlapping-intervals](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0605-can-place-flowers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0917-boats-to-save-people](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0917-boats-to-save-people) |
 | [1051-shortest-way-to-form-string](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1051-shortest-way-to-form-string) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [1304-longest-happy-string](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1304-longest-happy-string) |
