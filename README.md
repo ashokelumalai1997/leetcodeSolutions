@@ -307,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0069-sqrtx) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -627,6 +628,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0060-permutation-sequence](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0060-permutation-sequence) |
 | [0067-add-binary](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0070-climbing-stairs) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0415-add-strings](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0415-add-strings) |
