@@ -379,6 +379,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0139-word-break](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0152-maximum-product-subarray) |
 | [0179-largest-number](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -475,6 +476,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0139-word-break](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -649,6 +651,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0072-edit-distance](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0205-isomorphic-strings) |
@@ -784,6 +787,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0132-palindrome-partitioning-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0300-longest-increasing-subsequence](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0300-longest-increasing-subsequence) |
@@ -881,6 +885,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0139-word-break) |
 | [0386-lexicographical-numbers](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0386-lexicographical-numbers) |
 | [1097-stream-of-characters](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1097-stream-of-characters) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -940,6 +945,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0139-word-break) |
 ## Segment Tree
 |  |
 | ------- |
