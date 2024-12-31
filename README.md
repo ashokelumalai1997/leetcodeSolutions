@@ -413,6 +413,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0936-rle-iterator](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0936-rle-iterator) |
 | [0948-sort-an-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1019-squares-of-a-sorted-array) |
+| [1025-minimum-cost-for-tickets](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1046-max-consecutive-ones-iii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [1097-stream-of-characters](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1097-stream-of-characters) |
@@ -817,6 +818,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0650-2-keys-keyboard](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0664-strange-printer) |
 | [1008-binary-tree-cameras](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1008-binary-tree-cameras) |
+| [1025-minimum-cost-for-tickets](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1121-partition-array-for-maximum-sum](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1121-partition-array-for-maximum-sum) |
 | [1240-stone-game-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1240-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1250-longest-common-subsequence) |
