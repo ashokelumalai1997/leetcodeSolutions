@@ -211,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0285-inorder-successor-in-bst](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0285-inorder-successor-in-bst) |
 | [0337-house-robber-iii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0337-house-robber-iii) |
 | [0339-nested-list-weight-sum](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0339-nested-list-weight-sum) |
+| [0364-nested-list-weight-sum-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0364-nested-list-weight-sum-ii) |
 | [0366-find-leaves-of-binary-tree](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0366-find-leaves-of-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0386-lexicographical-numbers) |
 | [0505-the-maze-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0505-the-maze-ii) |
@@ -239,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0112-path-sum](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0200-number-of-islands) |
 | [0339-nested-list-weight-sum](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0339-nested-list-weight-sum) |
+| [0364-nested-list-weight-sum-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0364-nested-list-weight-sum-ii) |
 | [0505-the-maze-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0505-the-maze-ii) |
 | [0733-flood-fill](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0744-network-delay-time) |
@@ -718,6 +720,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0145-binary-tree-postorder-traversal](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0173-binary-search-tree-iterator) |
+| [0364-nested-list-weight-sum-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0364-nested-list-weight-sum-ii) |
 | [0726-number-of-atoms](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0726-number-of-atoms) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0780-max-chunks-to-make-sorted) |
