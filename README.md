@@ -414,6 +414,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0917-boats-to-save-people](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0917-boats-to-save-people) |
 | [0936-rle-iterator](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0936-rle-iterator) |
 | [0948-sort-an-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0948-sort-an-array) |
+| [0952-word-subsets](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0952-word-subsets) |
 | [1019-squares-of-a-sorted-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1025-minimum-cost-for-tickets](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1046-max-consecutive-ones-iii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1046-max-consecutive-ones-iii) |
@@ -500,6 +501,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0567-permutation-in-string](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0726-number-of-atoms](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0726-number-of-atoms) |
+| [0952-word-subsets](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0952-word-subsets) |
 | [1098-largest-unique-number](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1098-largest-unique-number) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1149-intersection-of-three-sorted-arrays) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1207-delete-nodes-and-return-forest) |
@@ -685,6 +687,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0664-strange-printer](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0726-number-of-atoms) |
 | [0812-rotate-string](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0812-rotate-string) |
+| [0952-word-subsets](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0952-word-subsets) |
 | [1051-shortest-way-to-form-string](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1051-shortest-way-to-form-string) |
 | [1097-stream-of-characters](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1097-stream-of-characters) |
 | [1250-longest-common-subsequence](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1250-longest-common-subsequence) |
