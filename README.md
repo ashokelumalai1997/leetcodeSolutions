@@ -206,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0113-path-sum-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0113-path-sum-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0207-course-schedule) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0285-inorder-successor-in-bst](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0285-inorder-successor-in-bst) |
@@ -239,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0112-path-sum](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0207-course-schedule) |
 | [0339-nested-list-weight-sum](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0339-nested-list-weight-sum) |
 | [0364-nested-list-weight-sum-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0364-nested-list-weight-sum-ii) |
 | [0505-the-maze-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0505-the-maze-ii) |
@@ -258,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0207-course-schedule) |
 | [0505-the-maze-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0505-the-maze-ii) |
 | [0511-all-paths-from-source-lead-to-destination](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0511-all-paths-from-source-lead-to-destination) |
 | [0744-network-delay-time](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0744-network-delay-time) |
@@ -275,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0207-course-schedule) |
 | [0511-all-paths-from-source-lead-to-destination](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0511-all-paths-from-source-lead-to-destination) |
 | [1101-parallel-courses](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1101-parallel-courses) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
