@@ -1,57 +1,53 @@
 class Solution {
     public boolean canFinish(int numCourses, int[][] prerequisites) {
-        int[] inDegree = new int[numCourses];
+        int n = numCourses;
         List<List<Integer>> adj = new ArrayList<>();
-        for(int c = 0; c < numCourses; c++) {
-            adj.add(new ArrayList<>());
-        }
-        for(int[] pr : prerequisites) {
-            inDegree[pr[1]]++;
-            adj.get(pr[0]).add(pr[1]);
+        int[] inDeg = new int[n];
+        int in = 0;
 
+        while(in < n) {
+            adj.add(new ArrayList<>());
+            in++;
+        }
+
+
+        for(int[] prereq : prerequisites) {
+            adj.get(prereq[1]).add(prereq[0]);
+            inDeg[prereq[0]]++;
         }
 
 
         Queue<Integer> q = new LinkedList<>();
 
-        for(int i = 0; i < numCourses; i++) {
-            if( inDegree[i] == 0 ) {
+
+
+
+        for(int i = 0; i < n; i++) {
+            if(inDeg[i] == 0) {
                 q.offer(i);
             }
         }
 
-        int courses = 0;
+        int coursesCompleted = 0;
 
         while(!q.isEmpty()) {
+
             int currentCourse = q.poll();
 
-            courses++;
-
-            for(int child : adj.get(currentCourse)) {
-                inDegree[child]--;
-                if(inDegree[child] == 0) {
-                    q.offer(child);
+            for(int next : adj.get(currentCourse)) {
+                inDeg[next]--;
+                if(inDeg[next] == 0) {
+                    q.offer(next);
                 }
             }
+
+            coursesCompleted++;
+
         }
 
-        return courses == numCourses;
+        return coursesCompleted == numCourses;
+
+
+
     }
 }
-
-//     1       2       3       4       5       6
-//         7       8       9
-//             10      11
-//                 12
-
-// push courses without prereq into queue
-
-
-// poll from q one by one
-//     each poll is a course
-
-//     deduct prereqs of child courses
-//     if(child course becomes zero prereq) push it to q
-
-
-// numCourses must have been polled
