@@ -6,7 +6,7 @@ class Solution {
 
         if(r == m || c == n) {
             
-            return Integer.MIN_VALUE;
+            return -10000000;
         }
 
         if(r == m-1 && c == n-1) {
@@ -24,7 +24,7 @@ class Solution {
 
         int with = Math.max(goRight, goDown);
 
-        if(with != Integer.MIN_VALUE) with += coins[r][c];
+        if(with != -10000000) with += coins[r][c];
         int withOut = Integer.MIN_VALUE;
 
         if(usedPowers < 2 && coins[r][c] < 0) {
