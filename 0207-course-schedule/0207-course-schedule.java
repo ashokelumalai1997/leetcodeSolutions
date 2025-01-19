@@ -1,51 +1,38 @@
 class Solution {
     public boolean canFinish(int numCourses, int[][] prerequisites) {
-        int n = numCourses;
-        List<List<Integer>> adj = new ArrayList<>();
-        int[] inDeg = new int[n];
-        int in = 0;
+        Map<Integer, List<Integer>> adjList = new HashMap<>();
 
-        while(in < n) {
-            adj.add(new ArrayList<>());
-            in++;
+        for(int i = 0; i < numCourses; i++) {
+            adjList.put(i, new ArrayList<>());
         }
 
+        int[] inDegree = new int[numCourses];
 
-        for(int[] prereq : prerequisites) {
-            adj.get(prereq[1]).add(prereq[0]);
-            inDeg[prereq[0]]++;
+        for(int[] course : prerequisites) {
+            adjList.get(course[1]).add(course[0]);
+            inDegree[course[0]]++;
         }
-
 
         Queue<Integer> q = new LinkedList<>();
 
-
-
-
-        for(int i = 0; i < n; i++) {
-            if(inDeg[i] == 0) {
-                q.offer(i);
-            }
+        for(int i = 0; i < numCourses; i++) {
+            if(inDegree[i] == 0) q.offer(i);
         }
 
-        int coursesCompleted = 0;
+        int numComplete = 0;
 
         while(!q.isEmpty()) {
+            int current = q.poll();
 
-            int currentCourse = q.poll();
+            numComplete++;
 
-            for(int next : adj.get(currentCourse)) {
-                inDeg[next]--;
-                if(inDeg[next] == 0) {
-                    q.offer(next);
-                }
+            for(int ne : adjList.get(current)) {
+                inDegree[ne]--;
+                if(inDegree[ne] == 0) q.offer(ne);
             }
-
-            coursesCompleted++;
-
         }
 
-        return coursesCompleted == numCourses;
+        return numCourses == numComplete;
 
 
 
