@@ -467,6 +467,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1940-maximum-xor-for-each-query](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1940-maximum-xor-for-each-query) |
 | [1962-single-threaded-cpu](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1962-single-threaded-cpu) |
 | [1972-rotating-the-box](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1972-rotating-the-box) |
+| [2003-distinct-numbers-in-each-subarray](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2003-distinct-numbers-in-each-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -530,6 +531,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1786-count-the-number-of-consistent-strings](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1883-find-distance-in-a-binary-tree](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1883-find-distance-in-a-binary-tree) |
 | [1982-remove-duplicates-from-an-unsorted-linked-list](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1982-remove-duplicates-from-an-unsorted-linked-list) |
+| [2003-distinct-numbers-in-each-subarray](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2003-distinct-numbers-in-each-subarray) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2300-construct-string-with-repeat-limit](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2300-construct-string-with-repeat-limit) |
@@ -903,6 +905,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0713-subarray-product-less-than-k](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1046-max-consecutive-ones-iii) |
+| [2003-distinct-numbers-in-each-subarray](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2003-distinct-numbers-in-each-subarray) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
