@@ -1,19 +1,22 @@
 class Solution {
     public boolean check(int[] nums) {
-        int streakBreaks = 0;
-
         int n = nums.length;
 
+        int count = 0;
+
         for(int i = 1; i < n; i++) {
-            if(nums[i] < nums[i-1]) streakBreaks++;
+            if(nums[i-1] > nums[i]) count++;
         }
-        if(streakBreaks == 0) return true;
 
-        if(streakBreaks == 1 && nums[n-1] <= nums[0]) return true;
+        if(nums[n-1] > nums[0]) count++;
 
-        return false;
-
-        // return streakBreaks <= 1;
-
+        return count <= 1;
     }
 }
+
+
+
+// a a+1 a+3 a+3 . .... a+10
+
+
+// 10 12 13 13 1 2 15
