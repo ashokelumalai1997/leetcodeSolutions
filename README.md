@@ -503,6 +503,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3235-minimum-cost-to-convert-string-i](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3247-number-of-same-end-substrings](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/3247-number-of-same-end-substrings) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
