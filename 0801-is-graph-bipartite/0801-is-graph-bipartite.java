@@ -1,48 +1,44 @@
 class Solution {
-
-    static class QEntry {
-        int col;
-        int node;
-        public QEntry(int node, int color) {
-            this.node = node;
-            col = color;
-        }
-    }
     public boolean isBipartite(int[][] graph) {
-        Queue<QEntry> q = new LinkedList<>();
-
         int n = graph.length;
-        int[] color = new int[n];
+        
+        // 0 - unvisited
+        // 1 - blue
+        // -1 - red
 
-        boolean[] vis = new boolean[n];
-
-        for(int i = 0; i <n; i++) {
-
-            if(color[i] != 0) continue;
-
-        q.offer(new QEntry(i, -1));
-        vis[i] = true;
+        int[] flag = new int[n];
+        
         
 
-        color[i] = -1;
+        for(int k = 0; k < n; k++) {
+            if(flag[k] != 0) continue;
+            Queue<Integer> q = new LinkedList<>();
+
+            flag[k] = 1;
+
+        q.offer(k);
 
         while(!q.isEmpty()) {
-            QEntry qe = q.poll();
-            int node = qe.node;
-            int col = qe.col;
+            int current = q.poll();
 
-            int neededColor  = (col == -1) ? 1 : -1;
+            int currentColor = flag[current];
+            int nextColor = flag[current]*-1;
 
-            for(int child : graph[node]) {
-                if(vis[child] && color[child] == col) return false;
-                if(vis[child]) continue;
-                q.add(new QEntry(child, neededColor));
-                color[child] = neededColor;
-                vis[child] = true;
+            int nextN = graph[current].length;
+
+            for(int i = 0; i < nextN; i++) {
+                int nextNode = graph[current][i];
+                if(flag[nextNode] == 0) {
+                    flag[nextNode] = nextColor;
+                    q.offer(nextNode);
+                }
+                else if(flag[nextNode] == currentColor) return false;
             }
+         }
         }
-        }
+        
 
+        
         return true;
     }
 }
