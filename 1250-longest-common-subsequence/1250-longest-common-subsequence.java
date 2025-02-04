@@ -1,28 +1,28 @@
 class Solution {
-    private int lcs(int[][] dp, int ind1, int ind2, String s1, String s2) {
-        if(ind1 == s1.length()) return 0;
-        if(ind2 == s2.length()) return 0;
-
-        if(dp[ind1][ind2] != -1) return dp[ind1][ind2];
-
-        if(s1.charAt(ind1) == s2.charAt(ind2)) {
-            return dp[ind1][ind2] = 1 + lcs(dp, ind1+1, ind2+1, s1, s2);
+    private int skipOrGo(int[][] dp, int i1, int i2, String text1, String text2) {
+        if(i1 == text1.length() || i2 == text2.length()) {
+            return 0;
         }
 
-        int m1 = lcs(dp, ind1 + 1, ind2 +1, s1, s2);
-        int m2 = lcs(dp, ind1 + 1, ind2, s1, s2);
-        int m3 = lcs(dp, ind1, ind2+1, s1, s2);
+        if(dp[i1][i2] != -1) return dp[i1][i2];
 
-        return dp[ind1][ind2] = Math.max(Math.max(m1, m2), m3);
+        if(text1.charAt(i1) == text2.charAt(i2)) {
+            return 1 + skipOrGo(dp, i1+1, i2+1, text1, text2);
+        }
 
+        int op1 = skipOrGo(dp, i1+1, i2, text1, text2);
+        int op2 = skipOrGo(dp, i1, i2+1, text1, text2);
+
+        return dp[i1][i2] = Math.max(op1, op2);
     }
     public int longestCommonSubsequence(String text1, String text2) {
-        int m = text1.length();
-        int n = text2.length();
-        int[][] dp = new int[m][n];
-        for(int i = 0; i < m; i ++) {
+        int n1 = text1.length();
+        int n2 = text2.length();
+        int[][] dp = new int[n1][n2];
+
+        for(int i = 0; i < n1; i++) {
             Arrays.fill(dp[i], -1);
         }
-        return lcs(dp, 0, 0, text1, text2);
+        return skipOrGo(dp, 0, 0, text1, text2);
     }
 }
