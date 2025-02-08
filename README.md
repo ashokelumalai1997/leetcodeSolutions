@@ -250,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0684-redundant-connection](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0744-network-delay-time) |
+| [0787-sliding-puzzle](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0801-is-graph-bipartite) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1229-shortest-path-with-alternating-colors) |
@@ -419,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0713-subarray-product-less-than-k](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0733-flood-fill) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0780-max-chunks-to-make-sorted) |
+| [0787-sliding-puzzle](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0794-swim-in-rising-water) |
 | [0859-design-circular-deque](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0859-design-circular-deque) |
 | [0907-koko-eating-bananas](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0907-koko-eating-bananas) |
@@ -781,6 +783,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0200-number-of-islands) |
 | [0505-the-maze-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0505-the-maze-ii) |
 | [0733-flood-fill](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0733-flood-fill) |
+| [0787-sliding-puzzle](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0794-swim-in-rising-water) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1396-count-servers-that-communicate) |
@@ -876,6 +879,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0518-coin-change-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0518-coin-change-ii) |
 | [0650-2-keys-keyboard](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0664-strange-printer) |
+| [0787-sliding-puzzle](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0787-sliding-puzzle) |
 | [1008-binary-tree-cameras](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1008-binary-tree-cameras) |
 | [1025-minimum-cost-for-tickets](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1121-partition-array-for-maximum-sum](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1121-partition-array-for-maximum-sum) |
@@ -1028,6 +1032,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0046-permutations](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0046-permutations) |
 | [0113-path-sum-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0113-path-sum-ii) |
 | [0494-target-sum](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0494-target-sum) |
+| [0787-sliding-puzzle](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0787-sliding-puzzle) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Enumeration
 |  |
@@ -1043,6 +1048,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0070-climbing-stairs](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0139-word-break) |
+| [0787-sliding-puzzle](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0787-sliding-puzzle) |
 ## Segment Tree
 |  |
 | ------- |
