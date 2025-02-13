@@ -481,6 +481,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2310-minimum-operations-to-halve-array-sum](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2448-count-number-of-bad-pairs) |
@@ -640,6 +641,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2300-construct-string-with-repeat-limit) |
+| [2310-minimum-operations-to-halve-array-sum](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2509-minimize-xor](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2509-minimize-xor) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -831,6 +833,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1762-furthest-building-you-can-reach](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1762-furthest-building-you-can-reach) |
 | [1962-single-threaded-cpu](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1962-single-threaded-cpu) |
 | [2300-construct-string-with-repeat-limit](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2300-construct-string-with-repeat-limit) |
+| [2310-minimum-operations-to-halve-array-sum](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2512-longest-uploaded-prefix](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2512-longest-uploaded-prefix) |
