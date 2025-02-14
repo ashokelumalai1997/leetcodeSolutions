@@ -449,6 +449,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1396-count-servers-that-communicate](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1435-xor-queries-of-a-subarray) |
+| [1477-product-of-the-last-k-numbers](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1511-count-number-of-teams](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1511-count-number-of-teams) |
@@ -704,6 +705,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0650-2-keys-keyboard](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0650-2-keys-keyboard) |
 | [1240-stone-game-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1240-stone-game-ii) |
 | [1345-perform-string-shifts](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1345-perform-string-shifts) |
+| [1477-product-of-the-last-k-numbers](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1642-water-bottles](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1642-water-bottles) |
 | [2448-count-number-of-bad-pairs](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2645-pass-the-pillow](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2645-pass-the-pillow) |
@@ -950,6 +952,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1240-stone-game-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1477-product-of-the-last-k-numbers](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1940-maximum-xor-for-each-query) |
@@ -1016,6 +1019,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0859-design-circular-deque](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0859-design-circular-deque) |
 | [0936-rle-iterator](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0936-rle-iterator) |
 | [1097-stream-of-characters](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1097-stream-of-characters) |
+| [1477-product-of-the-last-k-numbers](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2512-longest-uploaded-prefix](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2512-longest-uploaded-prefix) |
 ## Queue
@@ -1028,6 +1032,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0295-find-median-from-data-stream) |
 | [1097-stream-of-characters](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1097-stream-of-characters) |
+| [1477-product-of-the-last-k-numbers](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1477-product-of-the-last-k-numbers) |
 ## Rolling Hash
 |  |
 | ------- |
