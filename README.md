@@ -719,6 +719,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0067-add-binary](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0139-word-break) |
@@ -881,6 +882,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0064-minimum-path-sum](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
