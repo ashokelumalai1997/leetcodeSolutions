@@ -18,7 +18,7 @@ class Solution {
         List<String> strList = new ArrayList<>();
         getStrings(0, n, new StringBuilder(), strList);
         if(strList.size() < k) return "";
-        Collections.sort(strList);
+        // Collections.sort(strList);
         return strList.get(k-1);
     }
 }
