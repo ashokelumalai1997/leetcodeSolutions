@@ -475,6 +475,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2003-distinct-numbers-in-each-subarray](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2003-distinct-numbers-in-each-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2035-count-sub-islands) |
+| [2107-find-unique-binary-string](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2107-find-unique-binary-string) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -545,6 +546,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1982-remove-duplicates-from-an-unsorted-linked-list](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1982-remove-duplicates-from-an-unsorted-linked-list) |
 | [2003-distinct-numbers-in-each-subarray](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2003-distinct-numbers-in-each-subarray) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2107-find-unique-binary-string](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2300-construct-string-with-repeat-limit](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -754,6 +756,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2107-find-unique-binary-string](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -1059,6 +1062,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0494-target-sum](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0494-target-sum) |
 | [0787-sliding-puzzle](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0787-sliding-puzzle) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [2107-find-unique-binary-string](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2107-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Enumeration
 |  |
