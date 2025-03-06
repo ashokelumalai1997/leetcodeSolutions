@@ -510,6 +510,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2846-robot-collisions](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2846-robot-collisions) |
 | [2849-sum-of-imbalance-numbers-of-all-subarrays](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2849-sum-of-imbalance-numbers-of-all-subarrays) |
+| [3227-find-missing-and-repeated-values](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3247-number-of-same-end-substrings](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/3247-number-of-same-end-substrings) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -560,6 +561,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2685-first-completely-painted-row-or-column](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2849-sum-of-imbalance-numbers-of-all-subarrays](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2849-sum-of-imbalance-numbers-of-all-subarrays) |
+| [3227-find-missing-and-repeated-values](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3247-number-of-same-end-substrings](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/3247-number-of-same-end-substrings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -714,6 +716,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2645-pass-the-pillow](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2645-pass-the-pillow) |
 | [2716-prime-subtraction-operation](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3227-find-missing-and-repeated-values](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/3227-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
@@ -817,6 +820,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2685-first-completely-painted-row-or-column](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3227-find-missing-and-repeated-values](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
 | ------- |
