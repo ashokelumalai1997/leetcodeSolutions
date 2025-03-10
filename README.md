@@ -244,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0112-path-sum](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0207-course-schedule) |
+| [0279-perfect-squares](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0279-perfect-squares) |
 | [0339-nested-list-weight-sum](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0339-nested-list-weight-sum) |
 | [0364-nested-list-weight-sum-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0364-nested-list-weight-sum-ii) |
 | [0505-the-maze-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0505-the-maze-ii) |
@@ -703,6 +704,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0067-add-binary](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0070-climbing-stairs) |
+| [0279-perfect-squares](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0279-perfect-squares) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0415-add-strings](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0415-add-strings) |
 | [0539-minimum-time-difference](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0539-minimum-time-difference) |
@@ -900,6 +902,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0139-word-break](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0279-perfect-squares](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0300-longest-increasing-subsequence) |
 | [0337-house-robber-iii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0337-house-robber-iii) |
 | [0416-partition-equal-subset-sum](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0416-partition-equal-subset-sum) |
