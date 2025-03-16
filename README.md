@@ -483,6 +483,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2179-most-beautiful-item-for-each-query](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2289-minimum-operations-to-make-the-array-alternating](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2289-minimum-operations-to-make-the-array-alternating) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -550,6 +551,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2289-minimum-operations-to-make-the-array-alternating](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2289-minimum-operations-to-make-the-array-alternating) |
 | [2300-construct-string-with-repeat-limit](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -646,6 +648,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1818-maximum-score-from-removing-substrings](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2289-minimum-operations-to-make-the-array-alternating](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2289-minimum-operations-to-make-the-array-alternating) |
 | [2300-construct-string-with-repeat-limit](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -878,6 +881,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2289-minimum-operations-to-make-the-array-alternating](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2289-minimum-operations-to-make-the-array-alternating) |
 | [2300-construct-string-with-repeat-limit](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2448-count-number-of-bad-pairs](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2448-count-number-of-bad-pairs) |
