@@ -246,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0207-course-schedule) |
 | [0279-perfect-squares](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0279-perfect-squares) |
+| [0317-shortest-distance-from-all-buildings](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0317-shortest-distance-from-all-buildings) |
 | [0339-nested-list-weight-sum](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0339-nested-list-weight-sum) |
 | [0364-nested-list-weight-sum-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0364-nested-list-weight-sum-ii) |
 | [0505-the-maze-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0505-the-maze-ii) |
@@ -412,6 +413,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0283-move-zeroes](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0300-longest-increasing-subsequence) |
+| [0317-shortest-distance-from-all-buildings](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0317-shortest-distance-from-all-buildings) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0379-design-phone-directory](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0379-design-phone-directory) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -835,6 +837,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0064-minimum-path-sum](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0200-number-of-islands) |
+| [0317-shortest-distance-from-all-buildings](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0317-shortest-distance-from-all-buildings) |
 | [0505-the-maze-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0505-the-maze-ii) |
 | [0733-flood-fill](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0787-sliding-puzzle) |
