@@ -490,6 +490,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2262-solving-questions-with-brainpower](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2262-solving-questions-with-brainpower) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2289-minimum-operations-to-make-the-array-alternating](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2289-minimum-operations-to-make-the-array-alternating) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -956,6 +957,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2262-solving-questions-with-brainpower](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2262-solving-questions-with-brainpower) |
 | [2554-minimum-total-distance-traveled](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2554-minimum-total-distance-traveled) |
 | [2562-count-ways-to-build-good-strings](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2562-count-ways-to-build-good-strings) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
