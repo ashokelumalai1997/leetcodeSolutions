@@ -1,46 +1,44 @@
 class Solution {
-    private void reverse(int[] nums, int start, int end) {
-        while(start < end) {
-            int temp = nums[start];
-            nums[start] = nums[end];
-            nums[end] = temp;
-            start++;
-            end--;
-        }
-    }
-    public void nextPermutation(int[] nums) {
-        int left = 0;
-        int n = nums.length;
-        int right = n-1;
-        for(int i = 0; i < n-1; i++) {
-            if(nums[i] < nums[i+1]) left = i;
-        }
-        for(int i = n-1; i > left; i--) {
-            if(nums[i] > nums[left]) {
-                right = i;
-                break;
-            }
-        }
-        if(nums[right] > nums[left]) {
-            int temp = nums[left];
-            nums[left] = nums[right];
-            nums[right] = temp;
-            reverse(nums, left+1, n-1);
-        } else {
-            reverse(nums, 0, n-1);
-        }
-
-
-    }
+	public void nextPermutation(int[] nums) {
+		int n = nums.length;
+		int pos = -1;
+		for(int i = 0; i < n-1; i++) {
+			if(nums[i] < nums[i+1]) pos = i;
 }
 
+int swapPos = pos+1;
+
+if(pos == -1) {
+	reverse(nums, 0);
+    return;
+}
+
+for(int i = n-1; i >= swapPos; i--) {
+	if(nums[i] > nums[pos]) {
+		swapPos = i;
+		break;
+}
+}
+
+int temp = nums[pos];
+nums[pos] = nums[swapPos];
+nums[swapPos] = temp;
 
 
-// 2 4 5 2 3 1
 
+reverse(nums, pos+1);
+}
 
-// 5 4 3 2 1
-
-
-
+public void reverse(int[] nums, int k) {
+	int left = k;
+	int right = nums.length - 1;
+	while(left < right) {
+		int temp = nums[left];
+nums[left] = nums[right];
+nums[right] = temp;
+left++;
+right--;
+}
+}
+}
 
