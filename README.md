@@ -408,6 +408,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0068-text-justification) |
+| [0078-subsets](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -1050,6 +1051,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1435-xor-queries-of-a-subarray) |
@@ -1138,6 +1140,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0039-combination-sum](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0113-path-sum-ii) |
 | [0494-target-sum](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0494-target-sum) |
 | [0787-sliding-puzzle](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0787-sliding-puzzle) |
