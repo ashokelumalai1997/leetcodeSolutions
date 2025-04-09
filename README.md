@@ -553,6 +553,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Hash Table
 |  |
@@ -608,6 +609,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Two Pointers
 |  |
