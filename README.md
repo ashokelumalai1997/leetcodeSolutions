@@ -530,6 +530,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2554-minimum-total-distance-traveled](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2674-make-the-prefix-sum-non-negative](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2674-make-the-prefix-sum-non-negative) |
 | [2685-first-completely-painted-row-or-column](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -603,6 +604,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2502-sort-the-people](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2502-sort-the-people) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2685-first-completely-painted-row-or-column](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -1029,6 +1031,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2478-longest-nice-subarray](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2478-longest-nice-subarray) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Monotonic Stack
