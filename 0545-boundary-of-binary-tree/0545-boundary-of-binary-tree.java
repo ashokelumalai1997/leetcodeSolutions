@@ -45,7 +45,7 @@ class Solution {
         if (node == null) return;
         
         // If node is not a leaf, add to result
-        if (node.left != null || node.right != null) {
+        if (!(node.left == null && node.right == null)) {
             result.add(node.val);
         }
         
@@ -61,7 +61,7 @@ class Solution {
         if (node == null) return;
         
         // If node is not a leaf, add to result
-        if (node.left != null || node.right != null) {
+        if (!(node.left == null && node.right == null)) {
             result.add(node.val);
         }
         
