@@ -449,6 +449,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0780-max-chunks-to-make-sorted](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0794-swim-in-rising-water) |
+| [0797-rabbits-in-forest](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0797-rabbits-in-forest) |
 | [0859-design-circular-deque](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0859-design-circular-deque) |
 | [0907-koko-eating-bananas](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0917-boats-to-save-people) |
@@ -578,6 +579,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0726-number-of-atoms](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0726-number-of-atoms) |
 | [0768-partition-labels](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0797-rabbits-in-forest) |
 | [0940-fruit-into-baskets](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0952-word-subsets) |
 | [1098-largest-unique-number](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1098-largest-unique-number) |
@@ -694,6 +696,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0768-partition-labels](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0780-max-chunks-to-make-sorted) |
+| [0797-rabbits-in-forest](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0797-rabbits-in-forest) |
 | [0917-boats-to-save-people](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0917-boats-to-save-people) |
 | [1051-shortest-way-to-form-string](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1051-shortest-way-to-form-string) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1126-minimum-cost-to-connect-sticks) |
@@ -778,6 +781,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0415-add-strings](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0415-add-strings) |
 | [0539-minimum-time-difference](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0539-minimum-time-difference) |
 | [0650-2-keys-keyboard](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0650-2-keys-keyboard) |
+| [0797-rabbits-in-forest](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0797-rabbits-in-forest) |
 | [1240-stone-game-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1240-stone-game-ii) |
 | [1345-perform-string-shifts](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1345-perform-string-shifts) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1477-product-of-the-last-k-numbers) |
