@@ -599,6 +599,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2225-substrings-that-begin-and-end-with-the-same-letter](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2225-substrings-that-begin-and-end-with-the-same-letter) |
 | [2289-minimum-operations-to-make-the-array-alternating](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2289-minimum-operations-to-make-the-array-alternating) |
 | [2300-construct-string-with-repeat-limit](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -788,6 +789,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1642-water-bottles](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2225-substrings-that-begin-and-end-with-the-same-letter](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2225-substrings-that-begin-and-end-with-the-same-letter) |
 | [2448-count-number-of-bad-pairs](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2645-pass-the-pillow](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2645-pass-the-pillow) |
 | [2716-prime-subtraction-operation](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2716-prime-subtraction-operation) |
@@ -843,6 +845,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2163-kth-distinct-string-in-an-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2225-substrings-that-begin-and-end-with-the-same-letter](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2225-substrings-that-begin-and-end-with-the-same-letter) |
 | [2300-construct-string-with-repeat-limit](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2502-sort-the-people](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2502-sort-the-people) |
 | [2580-circular-sentence](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2580-circular-sentence) |
@@ -958,6 +961,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2225-substrings-that-begin-and-end-with-the-same-letter](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2225-substrings-that-begin-and-end-with-the-same-letter) |
 | [2289-minimum-operations-to-make-the-array-alternating](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2289-minimum-operations-to-make-the-array-alternating) |
 | [2300-construct-string-with-repeat-limit](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2308-divide-array-into-equal-pairs) |
@@ -1063,6 +1067,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1940-maximum-xor-for-each-query](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2225-substrings-that-begin-and-end-with-the-same-letter](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2225-substrings-that-begin-and-end-with-the-same-letter) |
 | [2358-number-of-ways-to-split-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2691-count-vowel-strings-in-ranges) |
