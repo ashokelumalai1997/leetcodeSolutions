@@ -28,7 +28,7 @@ int[][] dp = new int[n][n];
 
 for(int i = 0; i < n; i++) {
 	if(isPal[i][n-1])
-	dp[n-1][i] = 0;
+	dp[n-1][i] = 1;
 else 
 	dp[n-1][i] = Integer.MAX_VALUE;
 }
@@ -45,6 +45,6 @@ for(int i = n-2; i >= 0; i--) {
 }
 }
 
-return dp[0][0];
+return dp[0][0]-1;
 }
 }
