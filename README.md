@@ -512,6 +512,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2163-kth-distinct-string-in-an-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2249-count-the-hidden-sequences](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2249-count-the-hidden-sequences) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2262-solving-questions-with-brainpower](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2262-solving-questions-with-brainpower) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -1068,6 +1069,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2225-substrings-that-begin-and-end-with-the-same-letter](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2225-substrings-that-begin-and-end-with-the-same-letter) |
+| [2249-count-the-hidden-sequences](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2249-count-the-hidden-sequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2691-count-vowel-strings-in-ranges) |
