@@ -1,56 +1,37 @@
 class Solution {
-	public int minCut(String s) {
-		int n = s.length();
-		boolean[][] isPal = new boolean[n][n];
-		
-		for(int i = 0; i < n; i++) {
-			isPal[i][i] = true;
-}
+    public int minCut(String s) {
+        int n = s.length();
+        boolean[][] isPal = new boolean[n][n];
 
-for(int i = 0; i < n - 1; i++) {
-	if(s.charAt(i) == s.charAt(i+1)) {
-		isPal[i][i+1]  = true;
-}
-}
+        // Fill isPal[i][j]
+        for (int i = n - 1; i >= 0; i--) {
+            for (int j = i; j < n; j++) {
+                if (s.charAt(i) == s.charAt(j)) {
+                    if (j - i <= 1) {
+                        isPal[i][j] = true;
+                    } else {
+                        isPal[i][j] = isPal[i + 1][j - 1];
+                    }
+                }
+            }
+        }
 
+        // dp[i] = min cuts needed for s[0..i]
+        int[] dp = new int[n];
+        Arrays.fill(dp, Integer.MAX_VALUE);
 
+        for (int i = 0; i < n; i++) {
+            if (isPal[0][i]) {
+                dp[i] = 0; // no cut needed
+            } else {
+                for (int j = 1; j <= i; j++) {
+                    if (isPal[j][i]) {
+                        dp[i] = Math.min(dp[i], dp[j - 1] + 1);
+                    }
+                }
+            }
+        }
 
-for(int i = 2; i < n; i++) {
-	for(int j = 0; j + i < n; j++) {
-		if(s.charAt(j) == s.charAt(i+j)) {
-			isPal[j][i+j] = isPal[j+1][i+j-1];
-}
-}
-}
-
-int[][] dp = new int[n][n];
-
-for(int[] d : dp) {
-	Arrays.fill(d, -1);
-}
-
-return getPart(dp, 0, 0, s, isPal) - 1;
-}
-
-
-
-private int getPart(int[][] dp, int start, int ind, String s, boolean[][] isPal) {
-	if(start == s.length()) return 0;
-
-	if(ind == s.length()) {
-		return Integer.MAX_VALUE;
+        return dp[n - 1];
     }
-
-    if(dp[start][ind] != -1) return dp[start][ind];
-
-    int cont = getPart(dp, start, ind+1, s, isPal);
-    int brea = Integer.MAX_VALUE;
-    if(isPal[start][ind]) {
-	    int temp = getPart(dp, ind+1, ind+1, s, isPal);
-	    if(temp != Integer.MAX_VALUE)
-	    brea = 1 + temp;
-    }
-
-    return dp[start][ind] = Math.min(cont, brea);
-}
 }
