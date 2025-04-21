@@ -1,40 +1,48 @@
 class Solution {
-    public int[] searchRange(int[] nums, int target) {
-        int firstOccurrence = this.findBound(nums, target, true);
+	public int[] searchRange(int[] nums, int target) {
+		int n = nums.length;
+		
+		int firstInd = findFirstInd(nums, target);
+		int lastInd = findLastInd(nums, target);
 
-        if (firstOccurrence == -1) {
-            return new int[] { -1, -1 };
-        }
+		return new int[]{firstInd, lastInd};
+		
+}
 
-        int lastOccurrence = this.findBound(nums, target, false);
+private int findLastInd(int[] nums, int target) {
+	int n = nums.length;
+	int left = 0;
+	int right = n-1;
+	int ind = -1;
+	while(left <= right) {
+		int mid = left + (right - left)/2;
+		if(nums[mid] <= target) {
+			if(nums[mid] == target) ind = mid;
+			left  = mid + 1;
+} else {
+			right = mid - 1;
+}
+}
 
-        return new int[] { firstOccurrence, lastOccurrence };
-    }
+return ind;
+}
 
-    private int findBound(int[] nums, int target, boolean isFirst) {
-        int N = nums.length;
-        int begin = 0, end = N - 1;
-        int res = -1;
+private int findFirstInd(int[] nums, int target) {
+	int n = nums.length;
+	int left = 0;
+	int right = n-1;
+	int ind = -1;
+	while(left <= right) {
+		int mid = left + (right - left)/2;
+		
+		if(nums[mid] >= target) {
+			if(nums[mid] == target) ind = mid;
+			right = mid - 1;
+} else {
+	left  = mid + 1;
+}
+}
 
-        while (begin <= end) {
-            int mid = (begin + end) / 2;
-
-            if (nums[mid] == target) {
-                if (isFirst) {
-                    // This means we found our lower bound.
-                    res = mid;
-                    end = mid - 1;
-                } else {
-                    res = mid;
-                    begin = mid + 1;
-                }
-            } else if (nums[mid] > target) {
-                end = mid - 1;
-            } else {
-                begin = mid + 1;
-            }
-        }
-
-        return res;
-    }
+return ind;
+}
 }
