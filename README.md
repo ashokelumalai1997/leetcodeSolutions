@@ -594,6 +594,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1256-rank-transform-of-an-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1364-tuple-with-same-product) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1500-count-largest-group](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1500-count-largest-group) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -791,6 +792,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1240-stone-game-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1240-stone-game-ii) |
 | [1345-perform-string-shifts](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1345-perform-string-shifts) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1477-product-of-the-last-k-numbers) |
+| [1500-count-largest-group](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1500-count-largest-group) |
 | [1642-water-bottles](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1993-sum-of-all-subset-xor-totals) |
