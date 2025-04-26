@@ -533,6 +533,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -1048,6 +1049,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2003-distinct-numbers-in-each-subarray](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2003-distinct-numbers-in-each-subarray) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2478-longest-nice-subarray](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2478-longest-nice-subarray) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -1152,6 +1154,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0379-design-phone-directory](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0379-design-phone-directory) |
 | [0859-design-circular-deque](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0859-design-circular-deque) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Data Stream
 |  |
@@ -1220,4 +1223,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 <!---LeetCode Topics End-->
