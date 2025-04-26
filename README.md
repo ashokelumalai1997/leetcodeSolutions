@@ -464,6 +464,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0940-fruit-into-baskets](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0952-word-subsets) |
+| [1014-k-closest-points-to-origin](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1025-minimum-cost-for-tickets](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1036-rotting-oranges) |
@@ -677,6 +678,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0780-max-chunks-to-make-sorted](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0917-boats-to-save-people](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0948-sort-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [1098-largest-unique-number](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1098-largest-unique-number) |
@@ -793,6 +795,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0539-minimum-time-difference](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0539-minimum-time-difference) |
 | [0650-2-keys-keyboard](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0650-2-keys-keyboard) |
 | [0797-rabbits-in-forest](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0797-rabbits-in-forest) |
+| [1014-k-closest-points-to-origin](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1014-k-closest-points-to-origin) |
 | [1240-stone-game-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1240-stone-game-ii) |
 | [1345-perform-string-shifts](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1345-perform-string-shifts) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1477-product-of-the-last-k-numbers) |
@@ -925,6 +928,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0948-sort-an-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0948-sort-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -935,6 +939,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0744-network-delay-time](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0794-swim-in-rising-water) |
 | [0948-sort-an-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0948-sort-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1014-k-closest-points-to-origin) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [1304-longest-happy-string](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1325-path-with-maximum-probability) |
@@ -1230,4 +1235,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1014-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
