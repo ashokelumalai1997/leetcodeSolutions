@@ -364,6 +364,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2512-longest-uploaded-prefix](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2512-longest-uploaded-prefix) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2716-prime-subtraction-operation) |
@@ -530,6 +531,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2358-number-of-ways-to-split-array) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2448-count-number-of-bad-pairs](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2472-build-a-matrix-with-conditions](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2472-build-a-matrix-with-conditions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -1056,6 +1058,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1046-max-consecutive-ones-iii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1046-max-consecutive-ones-iii) |
 | [2003-distinct-numbers-in-each-subarray](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2003-distinct-numbers-in-each-subarray) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2478-longest-nice-subarray](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2478-longest-nice-subarray) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -1087,6 +1090,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2225-substrings-that-begin-and-end-with-the-same-letter](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2225-substrings-that-begin-and-end-with-the-same-letter) |
 | [2249-count-the-hidden-sequences](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2249-count-the-hidden-sequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2358-number-of-ways-to-split-array) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3247-number-of-same-end-substrings](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/3247-number-of-same-end-substrings) |
