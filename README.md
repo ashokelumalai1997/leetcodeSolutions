@@ -250,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0207-course-schedule](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0207-course-schedule) |
 | [0279-perfect-squares](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0279-perfect-squares) |
 | [0317-shortest-distance-from-all-buildings](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0317-shortest-distance-from-all-buildings) |
+| [0322-coin-change](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0322-coin-change) |
 | [0339-nested-list-weight-sum](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0339-nested-list-weight-sum) |
 | [0364-nested-list-weight-sum-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0364-nested-list-weight-sum-ii) |
 | [0505-the-maze-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0505-the-maze-ii) |
@@ -437,6 +438,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0287-find-the-duplicate-number](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0300-longest-increasing-subsequence) |
 | [0317-shortest-distance-from-all-buildings](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0317-shortest-distance-from-all-buildings) |
+| [0322-coin-change](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0368-largest-divisible-subset) |
 | [0379-design-phone-directory](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0379-design-phone-directory) |
@@ -1008,6 +1010,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0279-perfect-squares](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0337-house-robber-iii) |
 | [0368-largest-divisible-subset](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0416-partition-equal-subset-sum) |
