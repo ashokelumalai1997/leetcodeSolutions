@@ -9,7 +9,7 @@ return count;
 }
 
 private boolean isEvenDigit(int num) {
-	if(num == 0) return false;
+	// if(num == 0) return false;
 	int digits = 0;
 	while(num > 0) {
 		digits++;
