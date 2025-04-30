@@ -489,6 +489,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1435-xor-queries-of-a-subarray](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -802,6 +803,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1014-k-closest-points-to-origin](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1014-k-closest-points-to-origin) |
 | [1240-stone-game-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1240-stone-game-ii) |
 | [1345-perform-string-shifts](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1345-perform-string-shifts) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1500-count-largest-group) |
 | [1642-water-bottles](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1642-water-bottles) |
