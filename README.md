@@ -582,6 +582,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0139-word-break](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0141-linked-list-cycle) |
@@ -828,6 +829,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0067-add-binary](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0132-palindrome-partitioning-ii) |
@@ -1061,6 +1063,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0076-minimum-window-substring) |
 | [0567-permutation-in-string](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0713-subarray-product-less-than-k](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0713-subarray-product-less-than-k) |
