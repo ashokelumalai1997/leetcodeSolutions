@@ -480,6 +480,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1126-minimum-cost-to-connect-sticks](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1149-intersection-of-three-sorted-arrays) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1207-delete-nodes-and-return-forest) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1240-stone-game-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1293-three-consecutive-odds) |
@@ -603,6 +604,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1149-intersection-of-three-sorted-arrays](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1149-intersection-of-three-sorted-arrays) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1364-tuple-with-same-product) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -984,6 +986,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0936-rle-iterator](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0936-rle-iterator) |
 | [0948-sort-an-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0948-sort-an-array) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1149-intersection-of-three-sorted-arrays) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1396-count-servers-that-communicate) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
