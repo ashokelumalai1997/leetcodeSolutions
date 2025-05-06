@@ -521,6 +521,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2003-distinct-numbers-in-each-subarray](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2003-distinct-numbers-in-each-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2035-count-sub-islands) |
+| [2048-build-array-from-permutation](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2048-build-array-from-permutation) |
 | [2107-find-unique-binary-string](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2107-find-unique-binary-string) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -771,6 +772,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1803-average-waiting-time](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1803-average-waiting-time) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2048-build-array-from-permutation](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2048-build-array-from-permutation) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2271-rearrange-array-elements-by-sign) |
