@@ -19,7 +19,7 @@ class Solution {
 
         for(int[] a : moveDist) Arrays.fill(a, Integer.MAX_VALUE);
 
-        moveDist[0][0] = 0;
+        // moveDist[0][0] = 0;
 		
 		while(!pq.isEmpty()) {
 			int[] current  = pq.poll();
@@ -33,6 +33,10 @@ class Solution {
 				break;
 }
 
+if(dist >= moveDist[row][col]) continue;
+
+moveDist[row][col] = dist;
+
 for(int[] dir : directions) {
 	int nextRow = row + dir[0];
 	int nextCol = col + dir[1];
@@ -42,9 +46,9 @@ for(int[] dir : directions) {
 
 int nextDist = Math.max(1 + moveTime[nextRow][nextCol], dist + 1);
 
-if(moveDist[nextRow][nextCol] <= nextDist) continue;
+// if(moveDist[nextRow][nextCol] <= nextDist) continue;
 pq.offer(new int[]{nextRow, nextCol, nextDist});
-moveDist[nextRow][nextCol] = nextDist;
+// moveDist[nextRow][nextCol] = nextDist;
 }
 }
 }
