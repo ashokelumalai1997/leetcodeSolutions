@@ -421,6 +421,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0068-text-justification) |
 | [0078-subsets](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0078-subsets) |
@@ -680,6 +681,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0295-find-median-from-data-stream) |
