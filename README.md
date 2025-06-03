@@ -245,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Breadth-First Search
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0207-course-schedule) |
@@ -309,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0112-path-sum) |
@@ -382,6 +384,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Binary Tree
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0112-path-sum) |
