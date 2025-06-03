@@ -1,40 +1,50 @@
-/**
- * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode() {}
- *     TreeNode(int val) { this.val = val; }
- *     TreeNode(int val, TreeNode left, TreeNode right) {
- *         this.val = val;
- *         this.left = left;
- *         this.right = right;
- *     }
- * }
- */
 class Solution {
-    public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
-        List<List<Integer>> Output = new ArrayList<>();
-        Queue<TreeNode> stack = new LinkedList<>();
-        if(root==null) return Output;
-        stack.offer(root);
-        int flag = 1;
-        while(!stack.isEmpty()){
-            int n =stack.size();
-            LinkedList<Integer> currentList = new LinkedList<>();
-            for(int i=0;i<n;i++){
-                TreeNode currentNode = stack.poll();
-                if(currentNode.left!=null) stack.offer(currentNode.left);
-                if(currentNode.right!=null) stack.offer(currentNode.right);
-                if(flag==0)
-                    currentList.addFirst(currentNode.val);
-                else
-                    currentList.addLast(currentNode.val);
-            }
-            flag=(flag==1?0:1);
-            Output.add(currentList);
-        }
-        return Output;
-    }
+	public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
+
+        
+		
+		Queue<TreeNode> qNode = new LinkedList<>();
+		List<List<Integer>> result = new LinkedList<>();
+
+        if(root == null) return result;
+
+
+		qNode.offer(root);
+
+
+		boolean flag = true;
+
+		while(!qNode.isEmpty()) {
+
+			int n = qNode.size();
+
+			List<Integer> currentL  = new LinkedList<>();
+
+			for(int i = 0; i < n; i++) {
+				TreeNode current  = qNode.poll();
+				if(current.left != null) {
+					qNode.offer(current.left);
+}
+if(current.right != null) {
+					qNode.offer(current.right);
+}
+
+if(flag) {
+	currentL.addLast(current.val);
+} else {
+currentL.addFirst(current.val);
+}
+}
+
+flag = (flag ? false : true);
+			result.add(currentL);
+			
+
+			
+}
+
+return result;
+		
+		
+}
 }
