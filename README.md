@@ -594,6 +594,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0139-word-break](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0242-valid-anagram) |
@@ -760,6 +761,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0023-merge-k-sorted-lists](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0379-design-phone-directory](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0379-design-phone-directory) |
 | [0859-design-circular-deque](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0859-design-circular-deque) |
@@ -1183,6 +1185,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0173-binary-search-tree-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0295-find-median-from-data-stream) |
@@ -1281,4 +1284,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1014-k-closest-points-to-origin) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
