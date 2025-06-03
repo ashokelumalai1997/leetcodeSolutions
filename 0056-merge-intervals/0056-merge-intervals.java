@@ -1,17 +1,15 @@
 class Solution {
 
-	static class ArrayComparator implements Comparator<int[]> {
-		public int compare(int[] a, int[] b) {
-			if(a[0] == b[0]) return a[1] - b[1];
-			return a[0] - b[0];
-}
-}
+    
 	public int[][] merge(int[][] intervals) {
 		int n = intervals.length;
 
 		if(n == 0) return new int[][]{};
 
-		Arrays.sort(intervals, new ArrayComparator());
+		Arrays.sort(intervals, (a,b) -> {
+			if(a[0] == b[0]) return a[1] - b[1];
+			return a[0] - b[0];
+});
 
 int[] prev = intervals[0];
 
@@ -41,4 +39,3 @@ return outArr;
 
 }
 }
-
