@@ -1,55 +1,75 @@
 class Solution {
-    private void fixLine(StringBuilder line, List<StringBuilder> words, int maxWidth, boolean lastLine){
-        int remainingWidth = maxWidth - line.length();
-        if(words.isEmpty()) {
-            while(line.length() < maxWidth) {
-                // maxWidth--;
-                line.append(" ");
+    public void fixLine(List<StringBuilder> line, int currentLineLength, boolean isLast, int maxWidth) {
+        int rem = maxWidth - currentLineLength;
+        
+        int lineWords = line.size();
+        
+        int i = 1;
+        
+        while(i < lineWords) {
+            line.set(i, line.get(i).insert(0,  ' '));
+            i++;
+        }
+        
+        i = 1;
+        
+        if(isLast || line.size() == 1) {
+            while(rem > 0) {
+                line.get(line.size() - 1).append(" ");
+                rem--;
             }
             return;
         }
+
+        int index = 0;
+        
+        while(rem > 0) {
+            if(index%line.size() == 0) {
+                index++; 
+                continue;
+            }
+            line.set(index%line.size(), line.get(index%line.size()).insert(0, ' '));
+            index++;
+            rem--;
+        }
+        
+    }
+    
+    public String getSentence(List<StringBuilder> words) {
+        StringBuilder sb = new StringBuilder();
         
         for(StringBuilder word : words) {
-            remainingWidth -= word.length();
-        }
-        int i = 0;
-        if(lastLine) 
-        {
-            while(remainingWidth > 0) {
-                remainingWidth--;
-                words.get(words.size() - 1).append(" ");
-            }
-        } else {
-            while(remainingWidth > 0) {
-                remainingWidth--;
-                i = (i)%(words.size());
-                words.get(i).insert(0, " ");
-                i++;
-            }
+            sb.append(word);
         }
         
-        for(StringBuilder sb : words) {
-            line.append(sb.toString());
-        }
+        return sb.toString();
     }
     public List<String> fullJustify(String[] words, int maxWidth) {
+        
+        
         int wordPointer = 0;
+        
         int n = words.length;
-        List<String> result = new ArrayList<>();
+        
+        List<String> para = new ArrayList<>();
+        
         while(wordPointer < n) {
-
-            StringBuilder newLine = new StringBuilder(words[wordPointer]);
+            int currentLineLength = words[wordPointer].length();
+            List<StringBuilder> currentLine = new ArrayList<>();
+            currentLine.add(new StringBuilder(words[wordPointer]));
             wordPointer++;
-            List<StringBuilder> wordsToAppend = new ArrayList<>();
-            int currentLineLength = newLine.length();
-            while(wordPointer < n && (currentLineLength + 1 + words[wordPointer].length()) <= maxWidth) {
-                currentLineLength += 1 + words[wordPointer].length();
-                wordsToAppend.add(new StringBuilder(" " + words[wordPointer]));
+            while(wordPointer < n && currentLineLength + 1 + words[wordPointer].length() <= maxWidth) {
+                currentLine.add(new StringBuilder(words[wordPointer]));
+                currentLineLength += (words[wordPointer].length());
+                if(currentLine.size() != 1) currentLineLength++;
                 wordPointer++;
             }
-            fixLine(newLine, wordsToAppend, maxWidth, wordPointer == n);
-            result.add(newLine.toString());
-        }
-        return result;
+            boolean isLast = (wordPointer == n) ? true : false;
+            fixLine(currentLine, currentLineLength, isLast, maxWidth);
+            String sentence = getSentence(currentLine);
+            para.add(sentence);
+        } 
+        
+        return para;
     }
 }
