@@ -446,6 +446,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0283-move-zeroes](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0300-longest-increasing-subsequence) |
+| [0307-range-sum-query-mutable](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0307-range-sum-query-mutable) |
 | [0317-shortest-distance-from-all-buildings](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0317-shortest-distance-from-all-buildings) |
 | [0322-coin-change](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -1095,6 +1096,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0307-range-sum-query-mutable) |
 | [1511-count-number-of-teams](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1511-count-number-of-teams) |
 | [2512-longest-uploaded-prefix](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2512-longest-uploaded-prefix) |
 ## Sliding Window
@@ -1207,6 +1209,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0173-binary-search-tree-iterator](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0295-find-median-from-data-stream) |
+| [0307-range-sum-query-mutable](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0307-range-sum-query-mutable) |
 | [0379-design-phone-directory](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0379-design-phone-directory) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0859-design-circular-deque](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0859-design-circular-deque) |
@@ -1277,6 +1280,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0307-range-sum-query-mutable) |
 | [2512-longest-uploaded-prefix](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2512-longest-uploaded-prefix) |
 ## Biconnected Component
 |  |
