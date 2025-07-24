@@ -9,10 +9,7 @@ class MedianFinder {
     }
     
     public void addNum(int num) {
-        if(h1.isEmpty()) {
-            h1.offer(num);
-            return;
-        }
+        
         if(h1.size() == h2.size()) {
             h1.offer(num);
             h2.offer(h1.poll());
