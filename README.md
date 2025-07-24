@@ -367,6 +367,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1046-max-consecutive-ones-iii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1051-shortest-way-to-form-string](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1051-shortest-way-to-form-string) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1149-intersection-of-three-sorted-arrays) |
+| [1374-leftmost-column-with-at-least-a-one](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1374-leftmost-column-with-at-least-a-one) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -499,6 +500,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1333-sort-the-jumbled-numbers](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1345-perform-string-shifts](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1345-perform-string-shifts) |
 | [1364-tuple-with-same-product](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1364-tuple-with-same-product) |
+| [1374-leftmost-column-with-at-least-a-one](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1374-leftmost-column-with-at-least-a-one) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -951,6 +953,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0787-sliding-puzzle](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0794-swim-in-rising-water) |
 | [1036-rotting-oranges](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1036-rotting-oranges) |
+| [1374-leftmost-column-with-at-least-a-one](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1374-leftmost-column-with-at-least-a-one) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -1317,4 +1320,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0146-lru-cache) |
+## Interactive
+|  |
+| ------- |
+| [1374-leftmost-column-with-at-least-a-one](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1374-leftmost-column-with-at-least-a-one) |
 <!---LeetCode Topics End-->
