@@ -463,6 +463,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0539-minimum-time-difference](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0605-can-place-flowers](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0605-can-place-flowers) |
+| [0621-task-scheduler](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0713-subarray-product-less-than-k](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0733-flood-fill) |
@@ -610,6 +611,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0379-design-phone-directory](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0379-design-phone-directory) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0567-permutation-in-string](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0726-number-of-atoms](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0726-number-of-atoms) |
 | [0768-partition-labels](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0768-partition-labels) |
@@ -701,6 +703,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0435-non-overlapping-intervals](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0436-find-right-interval) |
 | [0539-minimum-time-difference](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0539-minimum-time-difference) |
+| [0621-task-scheduler](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0726-number-of-atoms](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0726-number-of-atoms) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0780-max-chunks-to-make-sorted) |
@@ -734,6 +737,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0179-largest-number](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0179-largest-number) |
 | [0435-non-overlapping-intervals](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0605-can-place-flowers) |
+| [0621-task-scheduler](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0768-partition-labels](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0780-max-chunks-to-make-sorted) |
@@ -977,6 +981,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0023-merge-k-sorted-lists](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0023-merge-k-sorted-lists) |
 | [0295-find-median-from-data-stream](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0295-find-median-from-data-stream) |
 | [0505-the-maze-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0505-the-maze-ii) |
+| [0621-task-scheduler](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0744-network-delay-time](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0794-swim-in-rising-water) |
@@ -1013,6 +1018,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Counting Sort
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0621-task-scheduler) |
 | [0936-rle-iterator](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0936-rle-iterator) |
 | [0948-sort-an-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0948-sort-an-array) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1149-intersection-of-three-sorted-arrays) |
