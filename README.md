@@ -261,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0787-sliding-puzzle](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0801-is-graph-bipartite) |
+| [0833-bus-routes](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0833-bus-routes) |
 | [1036-rotting-oranges](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1036-rotting-oranges) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1229-shortest-path-with-alternating-colors) |
@@ -473,6 +474,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0787-sliding-puzzle](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0797-rabbits-in-forest) |
+| [0833-bus-routes](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0833-bus-routes) |
 | [0859-design-circular-deque](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0859-design-circular-deque) |
 | [0907-koko-eating-bananas](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0917-boats-to-save-people) |
@@ -619,6 +621,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0726-number-of-atoms](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0726-number-of-atoms) |
 | [0768-partition-labels](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0797-rabbits-in-forest) |
+| [0833-bus-routes](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0833-bus-routes) |
 | [0940-fruit-into-baskets](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0952-word-subsets) |
 | [1023-time-based-key-value-store](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1023-time-based-key-value-store) |
