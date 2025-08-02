@@ -1,41 +1,42 @@
 class Solution {
+    public int[][] merge(int[][] intervals) {
+        List<int[]> temp = new ArrayList<>();
+        
 
-    
-	public int[][] merge(int[][] intervals) {
-		int n = intervals.length;
+        if(intervals.length == 0) return new int[][]{};
 
-		if(n == 0) return new int[][]{};
 
-		Arrays.sort(intervals, (a,b) -> {
-			if(a[0] == b[0]) return a[1] - b[1];
-			return a[0] - b[0];
-});
+        Arrays.sort(intervals, new Comparator<int[]>() {
+            public int compare(int[] a, int[] b) {
+                if(a[0] != b[0]) return a[0] - b[0];
+                return a[1] - b[1];
+            }
+        });
 
-int[] prev = intervals[0];
+        int n = intervals.length;
 
-List<int[]> out = new ArrayList<>();
+        int[] current = intervals[0];
 
-for(int[] current : intervals) {
-	if(prev[1] >= current[0]) {
-		prev[1] = Math.max(current[1], prev[1]);
-} else {
-	out.add(prev);
-	prev = current;
-}
-}
+        for(int i = 1; i < n; i++) {
+            if(intervals[i][0] <= current[1]) {
+                current[0] = Math.min(intervals[i][0], current[0]);
+                current[1] = Math.max(intervals[i][1], current[1]);
+            } else {
+                temp.add(current);
+                current = intervals[i];
+            }
+        }
 
-out.add(prev);
+        temp.add(current);
 
-int o = out.size();
+        int newN = temp.size();
 
-int[][] outArr = new int[o][2];
+        int[][] res = new int[newN][2];
 
-for(int i = 0; i < o; i++) {
-	outArr[i][0] = out.get(i)[0];
-	outArr[i][1] = out.get(i)[1];
-}
+        for(int i = 0; i < newN; i++) {
+            res[i] = temp.get(i);
+        }
 
-return outArr;
-
-}
+        return res;
+    }
 }
