@@ -22,11 +22,11 @@ class Solution {
                 left++;
             }
 
-            int current = right - left + 1;
+            int current = right - left;
 
-            if(zerosSoFar == 1 || right - left + 1 == n) {
-                current--;
-            }
+            // if(zerosSoFar == 1 || right - left + 1 == n) {
+            //     current--;
+            // }
 
             res = Math.max(res, current);
 
