@@ -426,6 +426,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0046-permutations) |
@@ -608,6 +609,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0139-word-break](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0139-word-break) |
@@ -958,6 +960,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0037-sudoku-solver) |
 | [0064-minimum-path-sum](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0200-number-of-islands) |
 | [0317-shortest-distance-from-all-buildings](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0317-shortest-distance-from-all-buildings) |
@@ -1273,6 +1276,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0078-subsets) |
