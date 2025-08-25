@@ -1,114 +1,112 @@
 class LRUCache {
-	static class Node {
-		Node prev;
-		Node next;
-		int key;
-		int val;
 
-		public Node(int key, int val) {
-			this.key = key;
-			this.val = val;
-			this.prev = null;
-			this.next = null;
-			
-}
-}
+    static class ListNode {
+        int key;
+        int val;
 
-int capacity;
+        ListNode prev;
+        ListNode next;
 
-Map<Integer, Node> map;
+        public ListNode(int key, int val) {
+            this.key = key;
+            this.val = val;
+            this.prev = null;
+            this.next = null;
+        }
+    }
 
-DoublyLinkedList dll;
+    static class DoublyLinkedList {
+        ListNode head;
+        ListNode tail;
 
-public LRUCache(int capacity) {
-	this.capacity = capacity;
-	this.map = new HashMap<>();
-    this.dll = new DoublyLinkedList();
-}
+        public DoublyLinkedList() {
+            this.head = null;
+            this.tail = null;
+        }
 
-public int get(int key) {
-	if(!this.map.containsKey(key)) return -1;
-	
-	Node current = this.map.get(key);
+        public void remove(ListNode node) {
+            if(this.head == node) {
+                this.head = this.head.next;
+                if(this.head != null) this.head.prev = null;
+                node.prev = null;
+                node.next = null;
+                return;
+            }
 
-	int val = current.val;
-	this.dll.moveToEnd(current);
-	return val;
-}
+            if(this.tail == node) {
+                this.tail = this.tail.prev;
+                this.tail.next = null;
+                node.prev = null;
+                node.next = null;
+                return;
+            }
 
-public void put(int key, int val) {
-	
-	if(!this.map.containsKey(key)) {
-        if(map.size() == capacity) {
-		this.map.remove(this.dll.evict());
-}
-		this.map.put(key, this.dll.addAtEnd(key, val));
-		return;
-}
+            node.prev.next = node.next;
+            node.next.prev = node.prev;
+            node.next = null;
+            node.prev = null;
+        }
 
+        public void addLast(ListNode node) {
+            if(this.head == null) {
+                this.head = node;
+                this.tail = node;
+                return;
+            }
 
-this.map.get(key).val = val;
-this.dll.moveToEnd(this.map.get(key));
-}
+            this.tail.next = node;
+            node.prev = this.tail;
+            this.tail = this.tail.next;
+        }
+    }
 
+    int cap;
+    Map<Integer, ListNode> hm;
+    DoublyLinkedList dll;
 
+    public LRUCache(int capacity) {
+        this.cap = capacity;
+        this.hm = new HashMap<>();
+        this.dll = new DoublyLinkedList();
+    }
+    
+    public int get(int key) {
+        if(!this.hm.containsKey(key)) {
+            return -1;
+        }
 
-static class DoublyLinkedList {
+        ListNode node = this.hm.get(key);
 
-	Node head;
-	Node tail;
+        this.dll.remove(node);
+        this.dll.addLast(node);
 
-	public DoublyLinkedList() {
-		this.head = null;
-		this.tail = null;
-}
+        return node.val;
+    }
+    
+    public void put(int key, int value) {
+        ListNode node;
+        if(this.hm.containsKey(key)) {
+            node = this.hm.get(key);
+            this.dll.remove(node);
+            node.val = value;
+        } else {
+            node = new ListNode(key, value);
+        }
+        this.dll.addLast(node);
+        this.hm.put(key, node);
 
-public Node addAtEnd(int key, int val) {
-	Node current  = new Node(key, val);
-	if(this.head == null) {
-		this.head = current;
-		this.tail = current;
-		return current;
-}
+        if(this.hm.size() > cap) {
+            this.hm.remove(this.dll.head.key);
+            this.dll.head = this.dll.head.next;
+            if(this.dll.head != null) this.dll.head.prev = null;
 
-this.tail.next = current;
-current.prev = this.tail;
-this.tail = current;
-return current;
-
-}
-
-public int evict() {
-	
-	if(this.head == null) return -1;
-	int key = this.head.key;
-	this.head = this.head.next;
-    if(this.head != null)
-	this.head.prev = null;
-
-    if(this.head == null) this.tail = null;
-
-	return key;
-}
-
-private void moveToEnd(Node node) {
-	if(this.tail == node) return;
-	Node current = node;
-	if(this.head == node) {
-		current = this.head;
-		this.head = this.head.next;
-		if(this.head != null) {
-			this.head.prev = null;
-}
-} else {
-		current.prev.next = current.next;
-		current.next.prev = current.prev;
-		
+        }
+    }
 }
 
-this.tail.next = current;
-current.prev = this.tail;
-this.tail = this.tail.next;
-}
-}
-}
+/**
+ * Your LRUCache object will be instantiated and called as such:
+ * LRUCache obj = new LRUCache(capacity);
+ * int param_1 = obj.get(key);
+ * obj.put(key,value);
+ */
