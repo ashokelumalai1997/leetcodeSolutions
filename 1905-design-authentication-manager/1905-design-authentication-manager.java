@@ -14,9 +14,10 @@ class AuthenticationManager {
     
     public void renew(String tokenId, int currentTime) {
         // this.mp.remove(tokenId);
-        if(this.mp.containsKey(tokenId) && this.mp.get(tokenId) + ttl > currentTime) {
-            this.mp.put(tokenId, currentTime);
+        if(!this.mp.containsKey(tokenId) || this.mp.containsKey(tokenId) && this.mp.get(tokenId) + ttl <= currentTime) {
+            return;
         }
+        this.mp.put(tokenId, currentTime);
         
     }
     
