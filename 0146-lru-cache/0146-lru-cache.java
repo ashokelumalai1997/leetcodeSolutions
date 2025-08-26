@@ -3,14 +3,14 @@ class LRUCache {
     static class ListNode {
         int key;
         int value;
-        ListNode prev;
         ListNode next;
+        ListNode prev;
 
         public ListNode(int key, int val) {
             this.key = key;
             this.value = val;
-            prev = null;
-            next = null;
+            this.next = null;
+            this.prev = null;
         }
     }
 
@@ -22,7 +22,7 @@ class LRUCache {
             this.tail = null;
         }
 
-        public void addNode(ListNode node) {
+        public void addLast(ListNode node) {
             if(this.head == null) {
                 this.head = node;
                 this.tail = node;
@@ -34,86 +34,70 @@ class LRUCache {
             this.tail = this.tail.next;
         }
 
-        public void removeNode(ListNode node) {
+        public void remove(ListNode node) {
             if(this.head == this.tail) {
                 this.head = null;
                 this.tail = null;
-                return;
-            }
-            if(this.tail == node) {
-                this.tail = this.tail.prev;
-                this.tail.next = null;
-                node.prev = null;
-                node.next = null;
                 return;
             }
 
             if(this.head == node) {
                 this.head = this.head.next;
                 this.head.prev = null;
-                node.prev = null;
                 node.next = null;
+                node.prev = null;
                 return;
             }
 
-            node.prev.next = node.next;
+            if(this.tail == node) {
+                this.tail = this.tail.prev;
+                this.tail.next = null;
+                node.next = null;
+                node.prev = null;
+                return;
+            }
+
             node.next.prev = node.prev;
-            node.prev = null;
+            node.prev.next = node.next;
             node.next = null;
-            return;
+            node.prev = null;
+
         }
     }
 
-
-    int cap;
     DoublyLinkedList dll;
-    Map<Integer, ListNode> mp;
+    Map<Integer, ListNode> hm;
+    int cap;
     public LRUCache(int capacity) {
         this.cap = capacity;
         this.dll = new DoublyLinkedList();
-        this.mp = new HashMap<>();
+        this.hm = new HashMap<>();
     }
     
-    /*
-    return -1 if key is not there in hm
-    get node from hm
-    remove it and add it to end
-    return the value
-    */
     public int get(int key) {
-        if(!this.mp.containsKey(key)) {
+        if(!this.hm.containsKey(key)) {
             return -1;
         }
-
-        ListNode node = this.mp.get(key);
-        this.dll.removeNode(node);
-        this.dll.addNode(node);
+        ListNode node = this.hm.get(key);
+        this.dll.remove(node);
+        this.dll.addLast(node);
         return node.value;
     }
     
-    /*
-
-    entry exists
-        update value and move it to end
-    entry doesn't exist
-        add to end
-    if entries go beyond the cap, remove the first node
-    */
     public void put(int key, int value) {
         ListNode node;
-        if(this.mp.containsKey(key)) {
-            node = this.mp.get(key);
-            this.dll.removeNode(node);
+        if(this.hm.containsKey(key)) {
+            node = this.hm.get(key);
+            this.dll.remove(node);
             node.value = value;
         } else {
             node = new ListNode(key, value);
         }
-        this.dll.addNode(node);
-        this.mp.put(key, node);
-
-        if(this.mp.size() > this.cap) {
-            this.mp.remove(this.dll.head.key);
-            this.dll.removeNode(this.dll.head);
+        this.dll.addLast(node);
+        this.hm.put(key, node);
+        if(this.hm.size() > this.cap) {
+            this.hm.remove(this.dll.head.key);
+            this.dll.remove(this.dll.head);
         }
     }
 }
