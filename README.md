@@ -380,6 +380,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0044-wildcard-matching](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0060-permutation-sequence) |
 | [0791-split-bst](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0791-split-bst) |
@@ -747,6 +748,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0179-largest-number) |
 | [0435-non-overlapping-intervals](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0435-non-overlapping-intervals) |
@@ -873,6 +875,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0020-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0044-wildcard-matching) |
 | [0067-add-binary](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0072-edit-distance) |
@@ -1063,6 +1066,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0064-minimum-path-sum) |
