@@ -6,6 +6,7 @@ class LRUCache {
         ListNode next;
         ListNode prev;
 
+
         public ListNode(int key, int val) {
             this.key = key;
             this.value = val;
@@ -14,9 +15,10 @@ class LRUCache {
         }
     }
 
-    static class DoublyLinkedList {
+    static class DoublyLinkedList{
         ListNode head;
         ListNode tail;
+
         public DoublyLinkedList() {
             this.head = null;
             this.tail = null;
@@ -38,40 +40,29 @@ class LRUCache {
             if(this.head == this.tail) {
                 this.head = null;
                 this.tail = null;
-                return;
-            }
-
-            if(this.head == node) {
+            } else if(this.head == node) {
                 this.head = this.head.next;
                 this.head.prev = null;
-                node.next = null;
-                node.prev = null;
-                return;
-            }
-
-            if(this.tail == node) {
+            } else if(this.tail == node) {
                 this.tail = this.tail.prev;
                 this.tail.next = null;
-                node.next = null;
-                node.prev = null;
-                return;
+            } else {
+                node.next.prev = node.prev;
+                node.prev.next = node.next;
             }
-
-            node.next.prev = node.prev;
-            node.prev.next = node.next;
-            node.next = null;
             node.prev = null;
-
+            node.next = null;
         }
     }
 
-    DoublyLinkedList dll;
     Map<Integer, ListNode> hm;
+    DoublyLinkedList dll;
     int cap;
+
     public LRUCache(int capacity) {
-        this.cap = capacity;
-        this.dll = new DoublyLinkedList();
         this.hm = new HashMap<>();
+        this.dll = new DoublyLinkedList();
+        this.cap = capacity;
     }
     
     public int get(int key) {
@@ -88,6 +79,7 @@ class LRUCache {
         ListNode node;
         if(this.hm.containsKey(key)) {
             node = this.hm.get(key);
+            this.hm.remove(key);
             this.dll.remove(node);
             node.value = value;
         } else {
@@ -95,7 +87,8 @@ class LRUCache {
         }
         this.dll.addLast(node);
         this.hm.put(key, node);
-        if(this.hm.size() > this.cap) {
+
+        if(this.cap < this.hm.size()) {
             this.hm.remove(this.dll.head.key);
             this.dll.remove(this.dll.head);
         }
