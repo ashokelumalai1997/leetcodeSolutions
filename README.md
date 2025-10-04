@@ -421,6 +421,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0033-search-in-rotated-sorted-array) |
@@ -681,6 +682,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0042-trapping-rain-water) |
@@ -749,6 +751,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0179-largest-number) |
