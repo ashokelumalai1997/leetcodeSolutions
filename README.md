@@ -376,6 +376,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2512-longest-uploaded-prefix](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2512-longest-uploaded-prefix) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2716-prime-subtraction-operation) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -606,6 +607,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Hash Table
 |  |
@@ -748,6 +750,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3001-apply-operations-to-maximize-score](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3430-count-days-without-meetings](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/3430-count-days-without-meetings) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -1155,6 +1158,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2626-count-the-number-of-good-subarrays](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1185,6 +1189,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2691-count-vowel-strings-in-ranges](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3247-number-of-same-end-substrings](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/3247-number-of-same-end-substrings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Game Theory
 |  |
 | ------- |
