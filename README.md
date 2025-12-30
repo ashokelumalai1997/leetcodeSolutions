@@ -481,6 +481,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0794-swim-in-rising-water](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0797-rabbits-in-forest) |
 | [0833-bus-routes](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0833-bus-routes) |
+| [0840-magic-squares-in-grid](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0840-magic-squares-in-grid) |
 | [0859-design-circular-deque](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0859-design-circular-deque) |
 | [0907-koko-eating-bananas](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0917-boats-to-save-people) |
@@ -633,6 +634,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0768-partition-labels](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0797-rabbits-in-forest) |
 | [0833-bus-routes](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0833-bus-routes) |
+| [0840-magic-squares-in-grid](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0840-magic-squares-in-grid) |
 | [0940-fruit-into-baskets](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0952-word-subsets) |
 | [1023-time-based-key-value-store](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1023-time-based-key-value-store) |
@@ -858,6 +860,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0650-2-keys-keyboard](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0650-2-keys-keyboard) |
 | [0679-24-game](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0797-rabbits-in-forest) |
+| [0840-magic-squares-in-grid](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0840-magic-squares-in-grid) |
 | [1014-k-closest-points-to-origin](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1014-k-closest-points-to-origin) |
 | [1240-stone-game-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1240-stone-game-ii) |
 | [1345-perform-string-shifts](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1345-perform-string-shifts) |
@@ -981,6 +984,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0733-flood-fill](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0794-swim-in-rising-water) |
+| [0840-magic-squares-in-grid](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0840-magic-squares-in-grid) |
 | [1036-rotting-oranges](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1036-rotting-oranges) |
 | [1374-leftmost-column-with-at-least-a-one](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1374-leftmost-column-with-at-least-a-one) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
