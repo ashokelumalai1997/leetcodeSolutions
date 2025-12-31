@@ -235,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1780-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1780-lowest-common-ancestor-of-a-binary-tree-ii) |
 | [1883-find-distance-in-a-binary-tree](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1883-find-distance-in-a-binary-tree) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2035-count-sub-islands](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2035-count-sub-islands) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -269,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1484-linked-list-in-binary-tree](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1484-linked-list-in-binary-tree) |
 | [1883-find-distance-in-a-binary-tree](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1883-find-distance-in-a-binary-tree) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2035-count-sub-islands](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2035-count-sub-islands) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -370,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1149-intersection-of-three-sorted-arrays](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1149-intersection-of-three-sorted-arrays) |
 | [1374-leftmost-column-with-at-least-a-one](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1374-leftmost-column-with-at-least-a-one) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -540,6 +543,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1927-maximum-ascending-subarray-sum](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1940-maximum-xor-for-each-query) |
 | [1962-single-threaded-cpu](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1962-single-threaded-cpu) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1972-rotating-the-box](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1972-rotating-the-box) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2003-distinct-numbers-in-each-subarray](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2003-distinct-numbers-in-each-subarray) |
@@ -839,6 +843,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0801-is-graph-bipartite](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0801-is-graph-bipartite) |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [1396-count-servers-that-communicate](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1396-count-servers-that-communicate) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2035-count-sub-islands](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2035-count-sub-islands) |
 | [2512-longest-uploaded-prefix](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2512-longest-uploaded-prefix) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -992,6 +997,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1972-rotating-the-box](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1972-rotating-the-box) |
 | [2035-count-sub-islands](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2132-convert-1d-array-into-2d-array) |
