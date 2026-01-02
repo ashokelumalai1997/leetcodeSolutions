@@ -439,6 +439,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0068-text-justification) |
 | [0078-subsets](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -856,6 +857,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0050-powx-n](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0070-climbing-stairs) |
