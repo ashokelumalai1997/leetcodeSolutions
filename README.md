@@ -492,6 +492,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0940-fruit-into-baskets](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0952-word-subsets) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1014-k-closest-points-to-origin](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1025-minimum-cost-for-tickets](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1025-minimum-cost-for-tickets) |
@@ -641,6 +642,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0840-magic-squares-in-grid](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0840-magic-squares-in-grid) |
 | [0940-fruit-into-baskets](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0952-word-subsets) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1023-time-based-key-value-store](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1023-time-based-key-value-store) |
 | [1098-largest-unique-number](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1098-largest-unique-number) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1149-intersection-of-three-sorted-arrays) |
