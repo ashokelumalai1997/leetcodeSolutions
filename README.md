@@ -924,6 +924,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1023-time-based-key-value-store](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1023-time-based-key-value-store) |
 | [1051-shortest-way-to-form-string](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1051-shortest-way-to-form-string) |
 | [1097-stream-of-characters](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1097-stream-of-characters) |
+| [1143-longest-common-subsequence](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1143-longest-common-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -1124,6 +1125,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1008-binary-tree-cameras](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1008-binary-tree-cameras) |
 | [1025-minimum-cost-for-tickets](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1121-partition-array-for-maximum-sum](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1121-partition-array-for-maximum-sum) |
+| [1143-longest-common-subsequence](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1143-longest-common-subsequence) |
 | [1240-stone-game-ii](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1240-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1402-count-square-submatrices-with-all-ones) |
