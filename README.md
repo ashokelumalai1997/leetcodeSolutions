@@ -775,6 +775,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0780-max-chunks-to-make-sorted](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0797-rabbits-in-forest) |
 | [0917-boats-to-save-people](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0917-boats-to-save-people) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1051-shortest-way-to-form-string](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1051-shortest-way-to-form-string) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1126-minimum-cost-to-connect-sticks) |
@@ -918,6 +919,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0768-partition-labels](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0868-push-dominoes) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0952-word-subsets](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0952-word-subsets) |
 | [1023-time-based-key-value-store](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1023-time-based-key-value-store) |
 | [1051-shortest-way-to-form-string](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1051-shortest-way-to-form-string) |
@@ -970,6 +972,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0726-number-of-atoms](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0726-number-of-atoms) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0780-max-chunks-to-make-sorted) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
