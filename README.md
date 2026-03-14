@@ -930,6 +930,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1304-longest-happy-string](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1304-longest-happy-string) |
 | [1345-perform-string-shifts](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1345-perform-string-shifts) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1524-string-matching-in-an-array) |
@@ -1320,6 +1321,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0494-target-sum](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0679-24-game) |
 | [0787-sliding-puzzle](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/0787-sliding-puzzle) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/ashokelumalai1997/leetcodeSolutions/tree/master/2107-find-unique-binary-string) |
